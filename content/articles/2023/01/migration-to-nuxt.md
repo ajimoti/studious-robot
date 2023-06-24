@@ -11,7 +11,7 @@ tags:
 cover: "singapore.jpg"
 ---
 
-[Dans un précédent billet](https://eventuallycoding.com/2023/01/faut-il-reecrire-de-zero), j'évoquais des chantiers de simplification engagés en 2022.
+[Dans un précédent billet](https://ajimoti.com/2023/01/faut-il-reecrire-de-zero), j'évoquais des chantiers de simplification engagés en 2022.
 
 J'espère que nous aurons l'occasion d'aborder plusieurs de ces chantiers sur ce blog [et celui de Malt](https://blog.malt.engineering/).
 Entre temps, dans ce billet, je souhaite vous présenter l'un de ces projets dont l'objectif est de moderniser toute notre technologie frontend en utilisant [Nuxt](https://nuxt.com/).  

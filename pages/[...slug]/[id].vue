@@ -120,14 +120,14 @@ useHead({
             hid: "og:url",
             name: "og:url",
             content:
-                "https://eventuallycoding.com" +
+                "https://ajimoti.com" +
                 article.value?._path.replace("/articles", ""),
         },
         {
             hid: "og:image",
             name: "og:image",
             content:
-                "https://eventuallycoding.com" +
+                "https://ajimoti.com" +
                 "/images/covers/" +
                 article.value?.cover,
         },
@@ -136,7 +136,7 @@ useHead({
         {
             name: "twitter:image",
             content:
-                "https://eventuallycoding.com" +
+                "https://ajimoti.com" +
                 "/images/covers/" +
                 article.value?.cover,
         },
@@ -158,7 +158,7 @@ useHead({
         {
             rel: "canonical",
             href:
-                "https://eventuallycoding.com" +
+                "https://ajimoti.com" +
                 article.value?._path.replace("/articles", ""),
         },
         ...alternates,

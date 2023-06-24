@@ -112,7 +112,7 @@ Bref, je suis lancé en tant que freelance et ça va durer 4 ans. Quatre ans SSI
 
 Et des entretiens j'en ferai encore des tas.
 
-[![image00](/images/469b2-image00.png)](https://eventuallycoding.com/wp-content/uploads/2019/10/469b2-image00.png)
+[![image00](/images/469b2-image00.png)](https://ajimoti.com/wp-content/uploads/2019/10/469b2-image00.png)
 
 ## Les entretiens où j'étais une star (sans comprendre pourquoi)
 

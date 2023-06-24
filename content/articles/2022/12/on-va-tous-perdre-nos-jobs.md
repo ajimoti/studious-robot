@@ -57,7 +57,7 @@ Malgré tout, j'entends souvent quelques doutes. En voici quelques uns :
 
 Possible, mais c'est déjà énorme. Et puis ça dépend de votre définition de simple (créer un bot pour battre les meilleurs joueurs de la planète à Rocket League c'est loin d'être simple). 
 
-J'avais déjà parlé de [Github Copilot](https://eventuallycoding.com/2022/05/26/github-copilot) dans un précédent billet. C'est un outil extrêmement puissant capable de vous suggérer le code à écrire à partir du contexte qu'il connaît.
+J'avais déjà parlé de [Github Copilot](https://ajimoti.com/2022/05/26/github-copilot) dans un précédent billet. C'est un outil extrêmement puissant capable de vous suggérer le code à écrire à partir du contexte qu'il connaît.
 
 Voici ici un exemple où Copilot a presque généré la totalité du code. 
 L'objectif était de remplacer les liens youtube sur mon blog par le player youtube. 

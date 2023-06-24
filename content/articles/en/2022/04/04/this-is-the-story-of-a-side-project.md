@@ -14,7 +14,7 @@ cover: "cover5.jpg"
 
 language: "en"
 alternates:
-    - fr: "https://eventuallycoding.com/2022/04/08/cest-lhistoire-dun-side-project"
+    - fr: "https://ajimoti.com/2022/04/08/cest-lhistoire-dun-side-project"
 ---
 
 Very recently, I needed to go back to basics, I made a few side projects. And for the latest, I set myself some challenges that I want to tell here.
@@ -28,13 +28,13 @@ So why should you read this post?
 - We're going to talk about how much it costs to create a product, even a very simple one like this one
 - You will be able to laugh at my expense at my UI skills.
 
-_French version [here](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/) (of course, it's better written, this blog post is only a translation)_
+_French version [here](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/) (of course, it's better written, this blog post is only a translation)_
 
 Other posts in this serie:
 
 - This is the story of a side project : cultivating an idea, creating an MVP
-- [Coderwatch: Episode 2: Design with Figma and Procreate](https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-with-figma-and-procreate/)
-- [Integration and web development with Bulma, Vue.js etc… – Coderwatch episode 3](https://eventuallycoding.com/2022/04/14/integration-and-web-development-with-bulma-vue-js-etc-coderwatch-episode-3/)
+- [Coderwatch: Episode 2: Design with Figma and Procreate](https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-with-figma-and-procreate/)
+- [Integration and web development with Bulma, Vue.js etc… – Coderwatch episode 3](https://ajimoti.com/2022/04/14/integration-and-web-development-with-bulma-vue-js-etc-coderwatch-episode-3/)
 
 Obviously given the number of subjects to be treated, it would be too boring in a single post so I suggest you discover all this in a series of post to be published, of which here is the first: 
 

@@ -1,7 +1,7 @@
 ---
 id: "1284"
 title: "Recruter ces futurs pairs autour d'un verre"
-description: "[![redcrabe](/images/redcrabe2.jpg)](https://eventuallycoding.com/wp-content/uploads/2013/03/redcrabe2.jpg)J’ai cofondé [Lateral-Thoughts](http://www...."
+description: "[![redcrabe](/images/redcrabe2.jpg)](https://ajimoti.com/wp-content/uploads/2013/03/redcrabe2.jpg)J’ai cofondé [Lateral-Thoughts](http://www...."
 date: "2016-06-16"
 categories: 
   - "waza"
@@ -12,7 +12,7 @@ img: "redcrabe2.jpg"
 cover: "cover1.jpg"
 ---
 
-[![redcrabe](/images/redcrabe2.jpg)](https://eventuallycoding.com/wp-content/uploads/2013/03/redcrabe2.jpg)J’ai cofondé [Lateral-Thoughts](http://www.lateral-thoughts.com/) en 2011. Techniquement j’y suis encore même si dans les faits je travaille à 100% sur Hopwork. Lateral-Thoughts est une boite formidable dont je ferais toujours la promotion. Son modèle collaboratif, la transparence tout cela est une réussite. Et comme je suis lancé sur le thème du recrutement, voyons comment ça se passe dans une boite comme ça. 
+[![redcrabe](/images/redcrabe2.jpg)](https://ajimoti.com/wp-content/uploads/2013/03/redcrabe2.jpg)J’ai cofondé [Lateral-Thoughts](http://www.lateral-thoughts.com/) en 2011. Techniquement j’y suis encore même si dans les faits je travaille à 100% sur Hopwork. Lateral-Thoughts est une boite formidable dont je ferais toujours la promotion. Son modèle collaboratif, la transparence tout cela est une réussite. Et comme je suis lancé sur le thème du recrutement, voyons comment ça se passe dans une boite comme ça. 
 
 Cette société a été vu à un moment, à tort, comme un regroupement de freelances. On pourrait le croire, mais il y a une structure derrière. Et cette structure a des freelances mais aussi des salariés. En terme d’adhésion, freelance comme salarié passe les mêmes étapes pour rejoindre le groupe.
 

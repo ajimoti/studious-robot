@@ -11,7 +11,7 @@ cover: "sun-circus.jpg"
 book: "impactfulSoftwareEngineering"
 
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/02/not-only-about-technique"
+  - en: "https://ajimoti.com/en/2023/02/not-only-about-technique"
 ---
 
 Au début de ma carrière, j'ai beaucoup investi sur mes compétences techniques. Très rapidement, j'ai su que je souhaitais me diriger vers l'expertise. J'étais attiré par les casses-têtes applicatifs, la résolution de problèmes, l'architecture ou juste, les technologies en elle-même. J'ai eu la chance de travailler sur des projets variés, dans les télécoms, la banque, l'assurance. J'ai pratiqué des technologies diverses, C, C++, Tcl/Tk, PHP, Java et j'en passe... J'ai appris de très bons mentors pendant 4 ans où je travaillais en société de services. Le service, c'est très formateur pour démarrer car on passe d'un projet à l'autre et on peut développer ses compétences individuelles sans s'intéresser profondément aux domaines métiers sur lesquels on travaille. On limite son impact, mais individuellement on peut progresser vite.
@@ -154,7 +154,7 @@ Il venait donc demander régulièrement des exports CSV de nos données. Ces exp
 C'était énergivore pour l'équipe tech, très petite à ce moment-là. C'était peu efficace pour lui, il n'avait pas de données fraîches et cela lui prenait beaucoup de temps. Bref, c'était loin d'être optimal...
 
 A un moment, nous avons décidé de mieux comprendre son problème, et nous avons abouti à une solution technologique.
-Je passe les détails, mais nous avons fini par créer [un mécanisme de réplication temps réel de nos données vers une base postgresql](https://eventuallycoding.com/2016/03/07/connecteur-mongo-postgresql/).
+Je passe les détails, mais nous avons fini par créer [un mécanisme de réplication temps réel de nos données vers une base postgresql](https://ajimoti.com/2016/03/07/connecteur-mongo-postgresql/).
 
 Et nous aurions pu nous arrêter là.
 

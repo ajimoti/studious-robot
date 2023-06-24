@@ -14,7 +14,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "en"
 alternates:
-- fr: "https://eventuallycoding.com/2023/05/alignment-autonomy-context"
+- fr: "https://ajimoti.com/2023/05/alignment-autonomy-context"
 ---
 
 Over the years, I've met and observed teams that were competent and yet failed: working on the wrong priorities, sometimes working on the right objectives, but with unsuitable solutions, sometimes working with no priorities at all.

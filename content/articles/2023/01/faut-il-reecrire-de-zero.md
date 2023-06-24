@@ -44,7 +44,7 @@ Même rétrospectivement, il est difficile de juger l'ensemble de ces décisions
 La séparation en plusieurs applications était discutable à ce stade. D'autant que nous utilisions déjà une stratégie de feature flipping pour désactiver des parties de code.
 Mais la migration sur OVH, notamment pour des raisons de coût des addons était plutôt pragmatique et nous a apporté beaucoup de souplesse pour la suite.
 
-Si cette partie vous intéresse, [un billet de blog sur la migration vers OVH avait été écrit à l'époque](https://eventuallycoding.com/2014/05/09/paas-or-not-paas-that-is-the-question/).
+Si cette partie vous intéresse, [un billet de blog sur la migration vers OVH avait été écrit à l'époque](https://ajimoti.com/2014/05/09/paas-or-not-paas-that-is-the-question/).
 
 Pour l'anecdote, l'ensemble de l'application et des bases de données tournait sur une seule machine !
 
@@ -112,7 +112,7 @@ Chaque personne est encouragée à avoir un regard critique, pour proposer et am
 Cette approche participative nous a été très utile. Les choix ont toujours été très efficaces, innovants tout en restant pragmatiques.  
 
 Par exemple nous avons :
-- [introduit PGSQL pour remplacer progressivement Mongo](https://eventuallycoding.com/2019/07/03/mongodb-vers-postgresql)
+- [introduit PGSQL pour remplacer progressivement Mongo](https://ajimoti.com/2019/07/03/mongodb-vers-postgresql)
 - basculé progressivement de Java à Kotlin
 - basculé progressivement de Javascript à Typescript
 

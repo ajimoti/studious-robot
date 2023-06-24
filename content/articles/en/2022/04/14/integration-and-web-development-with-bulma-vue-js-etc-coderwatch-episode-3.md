@@ -18,7 +18,7 @@ cover: "cover6.jpg"
 
 language: "en"
 alternates:
-    - fr: "https://eventuallycoding.com/2022/04/08/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3"
+    - fr: "https://ajimoti.com/2022/04/08/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3"
 ---
 
 Let's talk about web integration, HTML, CSS and Frontend dev. 
@@ -37,8 +37,8 @@ On each post from now on I will also give an status update on Coderwatch, the nu
 
 Posts in this series:
 
-- [This is the story of a side project: cultivating an idea, creating an MVP](https://eventuallycoding.com/2022/04/04/this-is-the-story-of-a-side-project/)
-- [Coderwatch: Episode 2: Design with Figma and Procreate](https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-with-figma-and-procreate/)
+- [This is the story of a side project: cultivating an idea, creating an MVP](https://ajimoti.com/2022/04/04/this-is-the-story-of-a-side-project/)
+- [Coderwatch: Episode 2: Design with Figma and Procreate](https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-with-figma-and-procreate/)
 - Integration and web development with Bulma, Vue.js etc… – Coderwatch episode 3
 
 In the previous post I created a model with Figma and now we have to roll up our sleeves to integrate it into HTML/CSS. 

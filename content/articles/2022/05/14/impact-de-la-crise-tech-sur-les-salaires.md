@@ -22,7 +22,7 @@ Mais peut-être que, vous ne voyez pas forcément les conséquences que cela pou
 
 Je vous propose un scénario autour de ce sujet.
 
-[![](/images/coffee-keyboard-1024x681.jpeg)](https://eventuallycoding.com/wp-content/uploads/2022/05/coffee-keyboard.jpeg)
+[![](/images/coffee-keyboard-1024x681.jpeg)](https://ajimoti.com/wp-content/uploads/2022/05/coffee-keyboard.jpeg)
 
 ## Bilan de la crise actuelle
 
@@ -107,7 +107,7 @@ Qui dit moins de fonds injectés, dit moins de capacités financières à recrut
 
 Les fortes levées de l’an dernier ont créé une très forte compétition sur une partie du marché (les startups/scaleup), certes petite, mais qui a eu des conséquences aussi sur les autres types d’entreprises qui ont dû se défendre pour garder leurs salariés.
 
-(J’évoquais tout cela dans [un précédent billet sur les salaires](https://eventuallycoding.com/2021/07/06/les-salaires-dans-la-tech/comment-page-1/))
+(J’évoquais tout cela dans [un précédent billet sur les salaires](https://ajimoti.com/2021/07/06/les-salaires-dans-la-tech/comment-page-1/))
 
 L’inverse devrait être vrai. 
 
@@ -138,4 +138,4 @@ Je vais cependant pondérer ce scénario par plusieurs éléments :
 
 Et si ça se trouve on est juste dans un creux de correction classique et temporaire du marché et tout reviendra à la normale dans 3 mois. 
 
-[![](/images/crisis.png)](https://eventuallycoding.com/wp-content/uploads/2022/05/crisis.png)
+[![](/images/crisis.png)](https://ajimoti.com/wp-content/uploads/2022/05/crisis.png)

@@ -14,7 +14,7 @@ cover: "cover8.jpg"
 
 language: "en"
 alternates:
-    - fr: "https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate"
+    - fr: "https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate"
 ---
 
 Here is the second post of this serie around the creation of a side project. 
@@ -30,11 +30,11 @@ And precisely on this post, we are going to talk about UI, UX and illustration, 
 
 Other post in this serie:
 
-- [This is the story of a side project : cultivating an idea, creating an MVP](https://eventuallycoding.com/2022/04/04/this-is-the-story-of-a-side-project/)
+- [This is the story of a side project : cultivating an idea, creating an MVP](https://ajimoti.com/2022/04/04/this-is-the-story-of-a-side-project/)
 - Coderwatch: Episode 2: Design with Figma and Procreate
-- [Integration and web development with Bulma, Vue.js etc… – Coderwatch episode 3](https://eventuallycoding.com/2022/04/14/integration-and-web-development-with-bulma-vue-js-etc-coderwatch-episode-3/)
+- [Integration and web development with Bulma, Vue.js etc… – Coderwatch episode 3](https://ajimoti.com/2022/04/14/integration-and-web-development-with-bulma-vue-js-etc-coderwatch-episode-3/)
 
-[Or in french](https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
+[Or in french](https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
 
 ## First step, the wireframe
 
@@ -73,7 +73,7 @@ In short, I was able to start from themes purchased on themeforest, create refer
 
 In the end, it represents about twenty pages of which here is a small overview: 
 
-[![](/images/pasted-image-0-10-1024x572.png)](https://eventuallycoding.com/wp-content/uploads/2022/05/pasted-image-0-10.png)
+[![](/images/pasted-image-0-10-1024x572.png)](https://ajimoti.com/wp-content/uploads/2022/05/pasted-image-0-10.png)
 
 ## Illustrations: Procreate
 
@@ -85,7 +85,7 @@ However I was not very comfortable with vector drawing while I felt rather confi
 
 So I used Procreate for all the illustrations of the site, the logo, the badges found in Coderwatch. 
 
-[![](/images/pasted-image-0-11-1024x583.png)](https://eventuallycoding.com/wp-content/uploads/2022/05/pasted-image-0-11.png)
+[![](/images/pasted-image-0-11-1024x583.png)](https://ajimoti.com/wp-content/uploads/2022/05/pasted-image-0-11.png)
 
 On the other hand, these are images, not svgs and we totally lose the expected advantage over a vector drawing which must support several image sizes without degrading the quality. The size of the images above is much too large (around 400kb per image). 
 

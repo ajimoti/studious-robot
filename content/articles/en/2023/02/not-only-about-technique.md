@@ -10,7 +10,7 @@ cover: "sun-circus.jpg"
 book: "impactfulSoftwareEngineering"
 language: "en"
 alternates:
-  - fr: "https://eventuallycoding.com/2023/02/not-only-about-technique"
+  - fr: "https://ajimoti.com/2023/02/not-only-about-technique"
 ---
 
 At the beginning of my career, I invested a lot in my technical skills. Very quickly, I knew that I wanted to move towards expertise. I was drawn to application puzzles, problem solving, architecture, or just technologies itself. I had the chance to work on various projects, in telecoms, banking, insurance. I practiced various technologies, C, C++, Tcl/Tk, PHP, Java and so on… I learned from very good mentors during 4 years when I worked in a service company. IT firms are very formative to start because you go from one project to another and you can develop your individual skills without being deeply interested in the business areas in which you work. Our impact is limited but we can learn faster.
@@ -145,7 +145,7 @@ Our COO, Quentin, needed regular data from the app to produce analytics. For thi
 
 He therefore came regularly to ask for CSV exports of our data. These exports were often different, sometimes he needed to extract different collection, or to aggregate with different data. It was time consuming for the tech team, which was very small at the time. It was inefficient for him, he didn’t have fresh data and it took him a lot of time too. In short, it was far from being optimal…
 
-At some point, we decided to better understand his problem, and we came up with a technological solution. I’ll skip the details, but we ended up creating [a mechanism for real-time replication of our data to a postgresql database](https://eventuallycoding.com/2016/03/07/connecteur-mongo-postgresql/).
+At some point, we decided to better understand his problem, and we came up with a technological solution. I’ll skip the details, but we ended up creating [a mechanism for real-time replication of our data to a postgresql database](https://ajimoti.com/2016/03/07/connecteur-mongo-postgresql/).
 
 And we could have stopped there.
 

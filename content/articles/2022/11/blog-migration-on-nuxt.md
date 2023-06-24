@@ -51,7 +51,7 @@ Mes critères de choix étaient les suivants :
 Les frameworks qui ont retenu mon attention :
 
 - [Nuxt](https://nuxt.com/) avec [Nuxt-Content](https://content.nuxtjs.org/)
-- [Gridsome](https://gridsome.org/) qui fait d'ailleurs tourner [le site de l'équipe Engineering de Malt](https://eventuallycoding.com/2022/05/19/malt-engineering-under-the-hood-gridsome)
+- [Gridsome](https://gridsome.org/) qui fait d'ailleurs tourner [le site de l'équipe Engineering de Malt](https://ajimoti.com/2022/05/19/malt-engineering-under-the-hood-gridsome)
 - [Gatsby](https://www.gatsbyjs.com/) 
 - [VuePress](https://vuepress.vuejs.org/) 
 
@@ -66,7 +66,7 @@ Avant d'aller plus loin, sachez que tout le contenu de ce blog [est disponible s
 
 Je me suis inspiré de nombreux sites de portfolio de dev web pour faire ce blog. 
 
-Vous trouverez une page de [ressources](https://eventuallycoding.com/resources) que je trouve plutot utile comme référence, c'est comme un marque-page personnel.
+Vous trouverez une page de [ressources](https://ajimoti.com/resources) que je trouve plutot utile comme référence, c'est comme un marque-page personnel.
 
 J'ai souhaité revoir l'index des blogs pour en faire un "one pager" afin de faciliter la découverte des anciens articles et rendre plus pratique la recherche. 
 

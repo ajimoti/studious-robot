@@ -35,7 +35,7 @@ C’est déjà un début. Mais c'est assez pauvre.
 
 Quid du respect de la vie privée ? Du professionnalisme ?
 
-Comment un scandale comme PRISM peut-il à ce point passer inaperçu [^1] aux yeux du grand public alors qu’il devrait y avoir au minimum [533 000](https://eventuallycoding.com/2013/08/12/travailler-autrement) informaticiens capable d’expliquer ces conséquences à leurs proches ? Est-ce que notre déontologie ne devrait pas nous forcer, nous qui comprenons les implications, à nous renseigner davantage et dénoncer les faits ?
+Comment un scandale comme PRISM peut-il à ce point passer inaperçu [^1] aux yeux du grand public alors qu’il devrait y avoir au minimum [533 000](https://ajimoti.com/2013/08/12/travailler-autrement) informaticiens capable d’expliquer ces conséquences à leurs proches ? Est-ce que notre déontologie ne devrait pas nous forcer, nous qui comprenons les implications, à nous renseigner davantage et dénoncer les faits ?
 
 ## La déontologie expliqué par le SYNTEC et le CIGREF
 

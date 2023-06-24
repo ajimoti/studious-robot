@@ -57,7 +57,7 @@ Bon mais soyons honnête, nous n’avons pas fait que ça.
 - Certains ont tenté le [Backeoffe](http://fr.wikipedia.org/wiki/Baeckeoffe) alsacien. Legend… wait for it… dary !
 - La tartiflette ne fut pas en reste...
 
-[![20131105_195921_small](/images/331f3-20131105_195921_small.jpg)](https://eventuallycoding.com/wp-content/uploads/2019/10/331f3-20131105_195921_small.jpg)
+[![20131105_195921_small](/images/331f3-20131105_195921_small.jpg)](https://ajimoti.com/wp-content/uploads/2019/10/331f3-20131105_195921_small.jpg)
 
 - On a subi nos premières neiges de l’année
 

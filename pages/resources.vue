@@ -80,13 +80,13 @@ useHead({
         {
             hid: "og:url",
             name: "og:url",
-            content: "https://eventuallycoding.com/resources",
+            content: "https://ajimoti.com/resources",
         },
         {
             hid: "og:image",
             name: "og:image",
             content:
-                "https://eventuallycoding.com" +
+                "https://ajimoti.com" +
                 "/images/covers/" +
                 article.value?.cover,
         },
@@ -95,14 +95,14 @@ useHead({
         {
             name: "twitter:image",
             content:
-                "https://eventuallycoding.com" +
+                "https://ajimoti.com" +
                 "/images/covers/" +
                 article.value?.cover,
         },
         { name: "twitter:card", content: "summary" },
     ],
     link: [
-        { rel: "canonical", href: "https://eventuallycoding.com/resources" },
+        { rel: "canonical", href: "https://ajimoti.com/resources" },
     ],
 });
 </script>

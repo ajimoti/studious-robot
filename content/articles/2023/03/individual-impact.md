@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "fr"
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/03/individual-impact"
+  - en: "https://ajimoti.com/en/2023/03/individual-impact"
 ---
 
 Quel a été votre impact dans les 6 derniers mois ?
@@ -35,7 +35,7 @@ Mais ce n’est en réalité pas le bout de la route.
 **L’impact que l’on peut créer ne dépend pas que de l’expertise**, même si celle-ci est nécessaire. 
 
 ## Tout est question d’impact
-Je vais beaucoup parler d’impact dans [ce livre](https://eventuallycoding.com/2023/02/impactful-software-engineering), c’est même l’un des termes principaux de son titre. Alors, je pense que c’est nécessaire avant d’aller plus loin de mettre une réalité en face de ce mot pour qu’il ne reste pas qu’un concept vaporeux dans un coin de tête.
+Je vais beaucoup parler d’impact dans [ce livre](https://ajimoti.com/2023/02/impactful-software-engineering), c’est même l’un des termes principaux de son titre. Alors, je pense que c’est nécessaire avant d’aller plus loin de mettre une réalité en face de ce mot pour qu’il ne reste pas qu’un concept vaporeux dans un coin de tête.
 
 ::image
 ![Un impact en image](/images/impact-balls.png)
@@ -57,7 +57,7 @@ Prenons des exemples.
 
 ::tip
 Parfois il n’est pas possible de chiffrer l’impact, mais vous remarquerez que j’ai très souvent essayé de le faire. Sans chiffres, il est très difficile d’être objectif sur l’impact généré.
-J’en reparle dans [un chapitre consacré à l’importance de la mesure](https://eventuallycoding.com/2023/02/measuring-everything).
+J’en reparle dans [un chapitre consacré à l’importance de la mesure](https://ajimoti.com/2023/02/measuring-everything).
 ::
 
 Je prête attention à ce type de détails quand je regarde un CV, car je trouve assez intéressant la façon dont une personne présente ses anciennes réalisations.

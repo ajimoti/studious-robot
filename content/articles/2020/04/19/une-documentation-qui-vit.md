@@ -16,7 +16,7 @@ cover: "cover2.jpg"
 Et si on parlait documentation ?  
 La documentation c'est un peu le sujet maudit et polémique dans les équipes tech. Entre ceux qui en font trop, ceux qui n'en font pas assez ou pas du tout. Est-ce que même parler de "faire de la doc" sur un blog technique c'est pas un peu... un troll ? :)
 
-[![Troll face](/images/image-2.png)](https://eventuallycoding.com/wp-content/uploads/2020/04/image-2.png)
+[![Troll face](/images/image-2.png)](https://ajimoti.com/wp-content/uploads/2020/04/image-2.png)
 
 J'ai connu des périodes assez variées d'un point de vue personnel concernant les pratiques documentaires que je vous propose de passer en revue.
 
@@ -75,7 +75,7 @@ Quelques exemples :
 
 Pour cela nous avons utilisé [qdox](https://github.com/paul-hammant/qdox) et quelques outils de parsing maison pour du json, js etc…
 
-[![](/images/doc-emails.png)](https://eventuallycoding.com/wp-content/uploads/2022/05/doc-emails.png)
+[![](/images/doc-emails.png)](https://ajimoti.com/wp-content/uploads/2022/05/doc-emails.png)
 
 Nous avons cependant une limitation actuellement : nous avons une base de code Kotlin qui est de plus en plus importante et ce code n'est pas couvert par qdox. Il faut que nous trouvions un remplaçant pour Kotlin. Si vous avez, je suis preneur.
 
@@ -113,7 +113,7 @@ En terme de construction de la doc, nous lancons un build sur la CI :
 
 Et voila ce que ca donne grosso modo :
 
-[![](/images/doc-result.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/05/doc-result.jpg)
+[![](/images/doc-result.jpg)](https://ajimoti.com/wp-content/uploads/2022/05/doc-result.jpg)
 
 En terme de résultat nous avons donc des pages de documentation qui sont générés depuis le code et des pages rédigées.  
 Les pages rédigées doivent rester méta (principe de fonctionnement, explication de choix, vision prospective etc…) pour avoir le moins de chance possible de ne pas être à jour avec un code qu'elles décriraient.

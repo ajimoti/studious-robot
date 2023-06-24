@@ -264,7 +264,7 @@ L’offshore qui explose depuis le début des années 2000 constitue une recherc
 
 Mais ça ne reste que du court terme, la perte de savoir-faire, la baisse de qualité, le coût grandissant des grands rateaux de management, tout finit par se payer. Et comme toujours, avec intérêt.
 
-J’avais déjà abordé ce sujet sur un angle plus léger : [wecodelikestars](https://eventuallycoding.com/2012/07/01/wecodelikestars-com/)
+J’avais déjà abordé ce sujet sur un angle plus léger : [wecodelikestars](https://ajimoti.com/2012/07/01/wecodelikestars-com/)
 
 ## Et les alternatives ?
 
@@ -309,7 +309,7 @@ OK, j’avoue, avec l’administratif qui y est lié on peut être rebuté, l’
 
 Et on passera sous silence les monstruosités que sont l’URRSAF, le RSI, les procédures diverses et variées pour tout et n’importe quoi.
 
-Mais rien ne vous empêche d’adhérer à des SCOOP ou des sociétés collaboratives qui s’occuperont de cette partie. Proche de nous on peut citer ScopyLeft, [Lateral-Thoughts](http://www.lateral-thoughts.com/), Ninja-Squad, Arpinum et [plein d’autres encores](https://eventuallycoding.com/2012/12/07/les-societes-cooperatives), plus loin (et plus gros) Valve, Spotify, Zappos.
+Mais rien ne vous empêche d’adhérer à des SCOOP ou des sociétés collaboratives qui s’occuperont de cette partie. Proche de nous on peut citer ScopyLeft, [Lateral-Thoughts](http://www.lateral-thoughts.com/), Ninja-Squad, Arpinum et [plein d’autres encores](https://ajimoti.com/2012/12/07/les-societes-cooperatives), plus loin (et plus gros) Valve, Spotify, Zappos.
 
 Etre freelance ou faire partie de ces boîtes, ce n’est pas seulement pour apporter de la flexibilité aux sociétés. C’est aussi une réponse pour nous, informaticiens, à cette fameuse question "Comment travailler autrement ?"
 

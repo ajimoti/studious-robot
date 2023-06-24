@@ -1,7 +1,7 @@
 ---
 id: "2017"
 title: "Coderwatch : épisode 2 - Design avec Figma et Procreate"
-description: "[English version here](https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-with-figma-and-procreate/)
+description: "[English version here](https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-with-figma-and-procreate/)
 
 Voici le second billet de cette..."
 date: "2022-04-08"
@@ -14,7 +14,7 @@ img: "pasted-image-0-5.png"
 cover: "cover6.jpg"
 
 alternates:
-    - en: "https://eventuallycoding.com/en/2022/04/08/coderwatch-episode-2-design-with-figma-and-procreate"
+    - en: "https://ajimoti.com/en/2022/04/08/coderwatch-episode-2-design-with-figma-and-procreate"
 ---
 
 Voici le second billet de cette série autour de la création d’un side project. 
@@ -31,10 +31,10 @@ Et justement sur ce billet, on va parler d’UI, d’UX et d’illustration, ce 
 
 Les billets de cette série :
 
-- [](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/)[C’est l’histoire d’un side project : cultiver une idée, créer un MVP](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/)
-- [](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/)[Coderwatch : épisode 2 : Design avec Figma et Procreate](https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
-- [](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/)[Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3](https://eventuallycoding.com/2022/04/14/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3/)
-- [](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/)[Spring Boot et Vue.js - Coderwatch episode 4](https://eventuallycoding.com/2022/05/04/spring-boot-et-vue-js-coderwatch-episode-4/)
+- [](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/)[C’est l’histoire d’un side project : cultiver une idée, créer un MVP](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/)
+- [](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/)[Coderwatch : épisode 2 : Design avec Figma et Procreate](https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
+- [](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/)[Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3](https://ajimoti.com/2022/04/14/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3/)
+- [](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/)[Spring Boot et Vue.js - Coderwatch episode 4](https://ajimoti.com/2022/05/04/spring-boot-et-vue-js-coderwatch-episode-4/)
 
 ## Première étape, une maquette
 
@@ -45,7 +45,7 @@ Avant de coder, l’idéal c’est de faire plusieurs essais sur des maquettes. 
 - on peut très facilement montrer un produit “fini” et récolter des avis critiques
 - c’est hyper satisfaisant d’avoir une maquette terminé à la fin d’une première itération plutôt que des pages moches avec ¼ des fonctionnalités qu’on a en tête (la maquette peut être beaucoup plus complète)
 
-[![](/images/pasted-image-0-5.png)](https://eventuallycoding.com/wp-content/uploads/2022/04/pasted-image-0-5.png)
+[![](/images/pasted-image-0-5.png)](https://ajimoti.com/wp-content/uploads/2022/04/pasted-image-0-5.png)
 
 Exemple ici avec deux versions différentes de la Home.
 
@@ -73,7 +73,7 @@ Bref, j’ai pu repartir des thèmes achetés sur themeforest, créer des compos
 
 Au final, cela représente une vingtaine de pages dont voici un petit aperçu : 
 
-[![](/images/pasted-image-0-10-1024x572.png)](https://eventuallycoding.com/wp-content/uploads/2022/05/pasted-image-0-10.png)
+[![](/images/pasted-image-0-10-1024x572.png)](https://ajimoti.com/wp-content/uploads/2022/05/pasted-image-0-10.png)
 
 ## Les illustrations : Procreate
 
@@ -85,7 +85,7 @@ Cependant je n’ai pas été très à l’aise avec le dessin vectoriel tandis 
 
 Ainsi je me suis servi de Procreate pour toutes les illustrations du site, le logo, les badges que l’on retrouve dans Coderwatch. 
 
-[![](/images/pasted-image-0-11-1024x583.png)](https://eventuallycoding.com/wp-content/uploads/2022/05/pasted-image-0-11.png)
+[![](/images/pasted-image-0-11-1024x583.png)](https://ajimoti.com/wp-content/uploads/2022/05/pasted-image-0-11.png)
 
 Par contre, ce sont des images, pas des svg et on perd totalement l’avantage attendu sur un dessin vectoriel qui doit supporter plusieurs tailles d’image sans dégradation de qualité. La taille des images ci-dessus est beaucoup trop importante (environ 400ko par image). 
 

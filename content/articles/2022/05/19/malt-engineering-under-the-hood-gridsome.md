@@ -26,7 +26,7 @@ Il se trouve que depuis le début de ma carrière je fais ma veille technologiqu
 Depuis mes premières années professionnelles ces ressources en ligne m'ont rendu service et inspiré plusieurs fois, techniquement et humainement.
 
 Assez naturellement j'ai commencé moi-même à contribuer en essayant également de partager mon expérience au bénéfice de cette communauté.
-Tout d'abord en tant que rédacteur sur le site developpez.com de 2002 a 2007 (environ ?), puis via le blog [eventuallycoding.com](https://eventuallycoding.com) à partir de 2007.
+Tout d'abord en tant que rédacteur sur le site developpez.com de 2002 a 2007 (environ ?), puis via le blog [eventuallycoding.com](https://ajimoti.com) à partir de 2007.
 
 Lorsque j'ai cofondé Malt, les premières personnes qui nous ont rejointes ce sont soit des ex-collègues avec qui j'avais déjà travaillé, soit des personnes que j'avais rencontré dans des meetups et conférences. 
 Chaque personne partageait cet état d'esprit et nous avons publié dès les premières années des projets open source (critical css, mongo streamer) et des articles pour décrire ce que nous apprenions avec la croissance de l'entreprise.

@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "en"
 alternates:
-  - fr: "https://eventuallycoding.com/2023/03/amenez-ingenieurs-dans-la-salle"
+  - fr: "https://ajimoti.com/2023/03/amenez-ingenieurs-dans-la-salle"
 ---
 
 I started my career with a first internship in a web startup in 2001. I believe I built a solid experience as a developer. But throughout my career I had several experiences that made me realize that there was a problem in the way many companies approach product development.
@@ -64,7 +64,7 @@ When I participated in the creation of Malt, I had two main motivations.
 The first was to shake up the codes of the Consulting/Freelancing market, to change the practices to make them more transparent, to dismantle the intermediaries, to simplify the life of freelancers.  
 But the second reason was to build a company, in which I would have liked to work myself as an employee. And one of the factors for me was to create a strong, efficient Engineering and Product culture, which is the main vector of our growth.
 
-This is what I want to share in the future chapters of [Impactful Software Engineering](https://eventuallycoding.com/en/2023/02/impactful-software-engineering) of which this blog post is the introduction. I want to share what I have learned over the years and allow other technical leaders to benefit from it.
+This is what I want to share in the future chapters of [Impactful Software Engineering](https://ajimoti.com/en/2023/02/impactful-software-engineering) of which this blog post is the introduction. I want to share what I have learned over the years and allow other technical leaders to benefit from it.
 
 I want to address in particular the "Tech Leads", whoever they are (CTO, Staff Engineer, Senior Engineer). By ricochet, it can be useful to Engineering Managers (VP, Eng Manager, Directors of eng...) whose help is needed.  
 But of course it can also be useful for other people interested in building an efficient product/tech company.

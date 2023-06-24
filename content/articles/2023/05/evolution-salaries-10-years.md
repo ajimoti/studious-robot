@@ -11,7 +11,7 @@ cover: "evolution-salaires.jpg"
 language: "fr"
 ---
 
-En 2012 Facebook donnait publiquement ces grilles de salaires et j’en faisais [un billet](https://eventuallycoding.com/2012/06/03/gagnez-vous-autant-quun-ingenieur-de-facebook) pour comparer avec la France.
+En 2012 Facebook donnait publiquement ces grilles de salaires et j’en faisais [un billet](https://ajimoti.com/2012/06/03/gagnez-vous-autant-quun-ingenieur-de-facebook) pour comparer avec la France.
 
 Si aujourd'hui ce type d’information est bien plus simple à trouver, cette transparence était une petite révolution à l’époque.
 Désormais, pour de nombreuses Big Tech (les entreprises US dominantes de la tech), les grilles sont diffusées sur [levels.fyi](https://www.levels.fyi).
@@ -268,7 +268,7 @@ On va donc faire un tableau simplifié, comme pour les US:
 
 **(*)** Pour les Big Tech, je n’ai pas de source fiable. Je me suis basé sur des personnes que je connais, plus les rares infos disponibles sur le site levels.fyi mais, qui par leur faible nombre, sont à prendre avec beaucoup de pincettes.
 
-Ces différentes frontières : marché général, boîtes tech françaises et Big Tech ne sont pas vraiment une surprise. J’abordais déjà dans un précédent billet le fait qu’il existe [4 marchés d’emplois en France](https://eventuallycoding.com/2021/07/06/les-salaires-dans-la-tech) avec des tranches de revenus différentes. Ce mécanisme est également décrit sur [le site de Pragmatic engineer qui parle de la trimodalité du secteur](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/).
+Ces différentes frontières : marché général, boîtes tech françaises et Big Tech ne sont pas vraiment une surprise. J’abordais déjà dans un précédent billet le fait qu’il existe [4 marchés d’emplois en France](https://ajimoti.com/2021/07/06/les-salaires-dans-la-tech) avec des tranches de revenus différentes. Ce mécanisme est également décrit sur [le site de Pragmatic engineer qui parle de la trimodalité du secteur](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/).
 
 ::warning
 A ce stade, certains vont me dire qu’ils connaissent des personnes au-dessus de 78 en France. Et c’est totalement exact. Mais on parle de médiane. Et même dans la tech française, il y a une différence importante entre une boite du SBF 120, une boite du next 40 et les autres. De plus, comme je le disais en intro, j’exclus au-dessus de Staff.

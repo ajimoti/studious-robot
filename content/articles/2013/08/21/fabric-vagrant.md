@@ -19,7 +19,7 @@ cover: "cover2.jpg"
 
 Vous avez tout tenté :
 
-- un manuel d’accueil de 3 pages avec toutes les procédures d’install, mais dont l’une des étapes c’est d’aller chercher Gégé bureau 451 car “il y a que lui qui sait ce qu’il faut faire à cette étape” (Vous vous rappelez de notre fameux [pompier pyromane](https://eventuallycoding.com/2012/05/21/etes-vous-pompier-pyromane) ?).
+- un manuel d’accueil de 3 pages avec toutes les procédures d’install, mais dont l’une des étapes c’est d’aller chercher Gégé bureau 451 car “il y a que lui qui sait ce qu’il faut faire à cette étape” (Vous vous rappelez de notre fameux [pompier pyromane](https://ajimoti.com/2012/05/21/etes-vous-pompier-pyromane) ?).
     
 - des échanges de fichier via USB ou NFS. Mais au fil du temps il y a des tas de versions dans différents répertoire et plus personne sait ce que c’est. A part Gégé qui a la bonne version sur son PC.
     
@@ -39,7 +39,7 @@ Et si on reprenait nos habitudes de dev, qu’on versionnait notre environnement
 
 Dans ce cas, ce billet vous intéressera puisque nous allons parler de création de VM et de provisionning, le tout de façon automatisé et reproductible avec Vagrant.
 
-Si vous avez lu le [dernier billet sur Fabric](https://eventuallycoding.com/2013/08/16/fabric-moi-un-cluster/), celui-ci poursuit dans la lignée. Cette fois-ci je vous propose d’utiliser [Vagrant](http://www.vagrantup.com/) pour créer une VM, et Fabric pour la configurer et installer les softs qu’il vous faut.
+Si vous avez lu le [dernier billet sur Fabric](https://ajimoti.com/2013/08/16/fabric-moi-un-cluster/), celui-ci poursuit dans la lignée. Cette fois-ci je vous propose d’utiliser [Vagrant](http://www.vagrantup.com/) pour créer une VM, et Fabric pour la configurer et installer les softs qu’il vous faut.
 
 ## Principe
 

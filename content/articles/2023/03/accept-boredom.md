@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "fr"
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/03/accept-boredom"
+  - en: "https://ajimoti.com/en/2023/03/accept-boredom"
 ---
 
 Au fil des années chez Malt j'ai appris une leçon importante sur le temps et la nécessité d'accepter “l'ennui”.
@@ -78,7 +78,7 @@ C'est une zone de confort, mais si on veut apporter davantage, il faut reprendre
 À partir de Senior, on attend de vous de travailler sur les bons problèmes à résoudre. On attend de l'anticipation. On attend proactivité et clarté.
 La clarté étant d'avoir su isoler les bons sujets à tacler parmi la multitude d'activités d'une équipe produit.
 
-Pour cela je vous propose de reprendre la démarche que nous avons vu ensemble dans le chapitre [“Tout mesurer”](https://eventuallycoding.com/2023/02/measuring-everything) : LIME (pour Listen, Ideas, Measure, Evolve)
+Pour cela je vous propose de reprendre la démarche que nous avons vu ensemble dans le chapitre [“Tout mesurer”](https://ajimoti.com/2023/02/measuring-everything) : LIME (pour Listen, Ideas, Measure, Evolve)
 
 La première étape, c'est “Listen”, et pour ça il faut du temps.
 ## De l'importance de créer du temps

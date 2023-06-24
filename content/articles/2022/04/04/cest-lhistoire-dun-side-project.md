@@ -1,7 +1,7 @@
 ---
 id: "1993"
 title: "C'est l'histoire d'un side project"
-description: "English version [here](https://eventuallycoding.com/2022/04/04/this-is-the-story-of-a-side-project/)
+description: "English version [here](https://ajimoti.com/2022/04/04/this-is-the-story-of-a-side-project/)
 
 Très récemment, pris d’une envie de retour aux s..."
 date: "2022-04-04"
@@ -15,7 +15,7 @@ img: "pasted-image-0.png"
 cover: "cover7.jpg"
 
 alternates:
-    - en: "https://eventuallycoding.com/en/2022/04/08/this-is-the-story-of-a-side-project"
+    - en: "https://ajimoti.com/en/2022/04/08/this-is-the-story-of-a-side-project"
 ---
 
 Très récemment, pris d’une envie de retour aux sources, je me suis lancé dans quelques sides projects. Et pour le dernier en date, je me suis imposé quelques défis que j’ai envie de raconter ici.
@@ -31,16 +31,16 @@ Alors pourquoi faudrait-il lire ce billet ?
 
 Evidemment au vu du nombre de sujet à traiter, ce serait indigeste dans un seul billet donc je vous propose de découvrir tout cela dans une série de billet à paraître: 
 
-- [C’est l’histoire d’un side project : cultiver une idée, créer un MVP](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/)
-- [Coderwatch : épisode 2 : Design avec Figma et Procreate](https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
-- [Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3](https://eventuallycoding.com/2022/04/14/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3/)
-- [Spring Boot et Vue.js - Coderwatch episode 4](https://eventuallycoding.com/2022/05/04/spring-boot-et-vue-js-coderwatch-episode-4/)
+- [C’est l’histoire d’un side project : cultiver une idée, créer un MVP](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/)
+- [Coderwatch : épisode 2 : Design avec Figma et Procreate](https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
+- [Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3](https://ajimoti.com/2022/04/14/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3/)
+- [Spring Boot et Vue.js - Coderwatch episode 4](https://ajimoti.com/2022/05/04/spring-boot-et-vue-js-coderwatch-episode-4/)
 
 Tout d’abord, si vous voulez le tester, il est disponible en ligne sur [www.coderwatch.io](http://www.coderwatch.io).
 
 Le pitch principal : **apprendre des langages et frameworks informatiques en jouant**. Je vous propose de passer des quizz, de gagner des points, et progressivement de monter dans le classement face aux autres joueurs tout en améliorant vos connaissances.
 
-[![](/images/pasted-image-0.png)](https://eventuallycoding.com/wp-content/uploads/2022/04/pasted-image-0.png)
+[![](/images/pasted-image-0.png)](https://ajimoti.com/wp-content/uploads/2022/04/pasted-image-0.png)
 
 ## Un side project pour rester à jour
 
@@ -86,7 +86,7 @@ Par exemple, une personne de l’équipe a codé un bot slack pour noter la pré
 
 Et c’est ainsi qu’est né, **Coderwatch**.
 
-[![](/images/image.png)](https://eventuallycoding.com/wp-content/uploads/2022/04/image.png)
+[![](/images/image.png)](https://ajimoti.com/wp-content/uploads/2022/04/image.png)
 
 ## Coderwatch
 
@@ -121,7 +121,7 @@ La proposition de valeurs que je vois de façon assez immédiate est la suivante
 - Se mettre en avant (prouver ses compétences)
 - et côté entreprise, dans une optique de monétisation, recruter des devs parmi la communauté
 
-[![](/images/image-1-1024x418.png)](https://eventuallycoding.com/wp-content/uploads/2022/04/image-1.png)
+[![](/images/image-1-1024x418.png)](https://ajimoti.com/wp-content/uploads/2022/04/image-1.png)
 
 Quand on fait une appli web, l’un des réflexes systématiques c’est de faire un benchmark pour étudier l’existant. 
 
@@ -212,7 +212,7 @@ C’est fini pour aujourd’hui dans ce premier billet de la série. Je vous ai 
 
 Pour rappel, vous pouvez le tester sur [www.coderwatch.io](http://www.coderwatch.io) . 
 
-[![](/images/image-2.png)](https://eventuallycoding.com/wp-content/uploads/2022/04/image-2.png)
+[![](/images/image-2.png)](https://ajimoti.com/wp-content/uploads/2022/04/image-2.png)
 
 Dans les prochains billets je parlerais de design, d’intégration front end, de développement backend et de comment je déploie tout cela sur Clever Cloud. 
 

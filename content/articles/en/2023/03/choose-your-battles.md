@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "en"
 alternates:
-  - fr: "https://eventuallycoding.com/2023/03/choisissez-vos-batailles"
+  - fr: "https://ajimoti.com/2023/03/choisissez-vos-batailles"
 ---
 
 Everyone theoretically knows the importance of prioritizing, yet many of us fail to make choices.

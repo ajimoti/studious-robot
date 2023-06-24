@@ -14,7 +14,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "fr"
 alternates:
-- en: "https://eventuallycoding.com/en/2023/05/alignment-autonomy-context"
+- en: "https://ajimoti.com/en/2023/05/alignment-autonomy-context"
 ---
 
 Au fil des années, j’ai rencontré et observé des équipes compétentes et malgré cela, en situation d’échec : travaillant sur les mauvaises priorités, travaillant parfois sur les bons objectifs, mais avec des solutions inadaptées, travaillant parfois sans aucune priorités.

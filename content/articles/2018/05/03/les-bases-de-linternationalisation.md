@@ -238,7 +238,7 @@ Ce mécanisme permet d’organiser les ressources hiérarchiquement et de recher
 
 Dans l’exemple suivant, l’application a déterminé que l’utilisateur parle Français Canadien. Elle recherche donc d’abord la traduction en Français Canadien, puis en Français si elle n’existe pas, puis enfin dans la langue par défaut si la traduction n’a toujours pas été trouvée.
 
-[![](/images/24890-image8.png)](https://eventuallycoding.com/wp-content/uploads/2019/10/24890-image8.png)
+[![](/images/24890-image8.png)](https://ajimoti.com/wp-content/uploads/2019/10/24890-image8.png)
 
 #### **L’utilisation des codes ISO**
 

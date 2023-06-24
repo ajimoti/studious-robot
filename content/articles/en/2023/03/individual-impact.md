@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "en"
 alternates:
-  - fr: "https://eventuallycoding.com/2023/03/individual-impact"
+  - fr: "https://ajimoti.com/2023/03/individual-impact"
 ---
 
 What has been your impact in the last 6 months?
@@ -35,7 +35,7 @@ But this is actually not the end of the road.
 **The impact you can create does not depend on expertise alone**, even if it is necessary.
 
 ## It's all about impact
-I'm going to talk a lot about impact in [this book](https://eventuallycoding.com/en/2023/02/impactful-software-engineering), it's one of the main terms in the title. So, I think it's necessary before going any further to put a reality in front of that word so that it doesn't remain just a vague concept in a corner of your head.
+I'm going to talk a lot about impact in [this book](https://ajimoti.com/en/2023/02/impactful-software-engineering), it's one of the main terms in the title. So, I think it's necessary before going any further to put a reality in front of that word so that it doesn't remain just a vague concept in a corner of your head.
 
 ::image
 ![An impact in pictures](/images/impact-balls.png)
@@ -57,7 +57,7 @@ Let's take some examples.
 
 ::tip
 Sometimes it's not possible to put a number on the impact, but you'll notice that I've tried very often to do so. Without numbers, it is very difficult to be objective about the impact generated.
-I'll talk about this again in [a chapter on the importance of measurement](https://eventuallycoding.com/en/2023/02/measuring-everything).
+I'll talk about this again in [a chapter on the importance of measurement](https://ajimoti.com/en/2023/02/measuring-everything).
 ::
 
 I pay attention to these kinds of details when I look at a resume, because I find it quite interesting how a person presents their past accomplishments.

@@ -11,7 +11,7 @@ cover: "opticien.jpg"
 book: "impactfulSoftwareEngineering"
 language: "en"
 alternates:
-  - fr: "https://eventuallycoding.com/2023/02/measuring-everything"
+  - fr: "https://ajimoti.com/2023/02/measuring-everything"
 ---
 > You can't improve what you don't measure  
 [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)

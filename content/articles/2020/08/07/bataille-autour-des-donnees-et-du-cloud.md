@@ -3,7 +3,7 @@ id: "1571"
 title: "Bataille autour des données et du Cloud"
 description: "![](/images/Ligne_maginot-1024x838.jpg)
 
-Ce billet fait partie d’une série dont vous pourrez lire [l’introduction ici](https://eventuallycoding.com/20..."
+Ce billet fait partie d’une série dont vous pourrez lire [l’introduction ici](https://ajimoti.com/20..."
 date: "2020-08-07"
 categories: 
   - "waza"
@@ -18,7 +18,7 @@ cover: "cover2.jpg"
 
 ![](/images/Ligne_maginot-1024x838.jpg)
 
-Ce billet fait partie d’une série dont vous pourrez lire [l’introduction ici](https://eventuallycoding.com/2020/08/03/leurope-entre-le-marteau-chinois-et-lenclume-us/).
+Ce billet fait partie d’une série dont vous pourrez lire [l’introduction ici](https://ajimoti.com/2020/08/03/leurope-entre-le-marteau-chinois-et-lenclume-us/).
 
 Le fil rouge global de cette série tourne autour du livre ["IA La plus grande mutation de l'histoire" de Kai-Fu Lee](https://livre.fnac.com/a13452637/Kai-Fu-Lee-I-A-La-Plus-Grande-Mutation-de-l-histoire), livre très bien écrit que je vous résume dans ce premier billet.
 
@@ -173,7 +173,7 @@ Il y a [des chiffres cependant](https://www.iphon.fr/post/depenses-innovation-rd
 
 En comparaison, [OVH c’était 1.5 milliards d’investissement au total](https://www.journaldunet.com/solutions/cloud-computing/1438443-apres-deux-ans-a-marche-forcee-ovh-leve-le-pied/) (pas uniquement de R&D) sur 5 ans. Je n’ai pas les budgets de Scaleway mais on doit être dans les mêmes eaux. En moins grand public vous avez également outscale par Dassault Système qui joue à fond la carte cloud souverain pour l’IAAS. Ils déclaraient dans [un communiqué de presse](https://fr.outscale.com/communiques-presse/celine-bousquet-rejoint-outscale-poste-de-directrice-recherche-developpement/) dépenser 15% de leur CA en R&D, CA qui [selon Wikipedia](https://fr.wikipedia.org/wiki/Outscale) est de l’ordre de 7.5M d’euros. On est loin d’OVH en la matière.
 
-Alors entendons nous bien, ce qui fait le succès d’un [écosystème tech](https://eventuallycoding.com/2019/12/19/quest-ce-quun-ecosysteme-tech/) c’est la concentration en un même lieu de sociétés tech, d’universités, d’investisseurs bien pourvus qui collaborent et se consomment leurs services mutuellement. Nous avons tout à gagner que des super champions se développent chez nous. 
+Alors entendons nous bien, ce qui fait le succès d’un [écosystème tech](https://ajimoti.com/2019/12/19/quest-ce-quun-ecosysteme-tech/) c’est la concentration en un même lieu de sociétés tech, d’universités, d’investisseurs bien pourvus qui collaborent et se consomment leurs services mutuellement. Nous avons tout à gagner que des super champions se développent chez nous. 
 
 Mais les sociétés du cloud, notamment sur le IAAS restent en retard, peut être seulement de quelques années, mais ces années comptent triple dans ce domaine. 
 

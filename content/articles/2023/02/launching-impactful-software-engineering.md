@@ -11,7 +11,7 @@ cover: "book.jpg"
 
 language: "fr"
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/02/launching-impactful-software-engineering"
+  - en: "https://ajimoti.com/en/2023/02/launching-impactful-software-engineering"
 ---
 
 

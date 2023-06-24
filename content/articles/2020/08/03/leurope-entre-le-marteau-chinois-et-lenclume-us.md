@@ -44,8 +44,8 @@ Comme c’est assez long, j’ai choisi de le découper en plusieurs billets de 
 Et voici les sujets qui seront abordés. 
 
 - Un résumé du livre de [Kai-Fu Lee](https://docs.google.com/document/d/1VnGyZAFYsaOGiAtQ-p76X55o64K5T76gSstXMeBUbYo/edit#heading=h.afwpo0dmzchh) pour comprendre le contexte global, l’hégémonie économique qui se prépare et la guerre économique dont nous sommes témoins
-- [La RGPD, le protectionisme sous l’angle des données et le cloud souverain](https://eventuallycoding.com/2020/08/07/bataille-autour-des-donnees-et-du-cloud/)
-- [La startup nation, l’économie des TIC et la structuration de la tech Française](https://eventuallycoding.com/2020/08/11/leconomie-des-tic/) 
+- [La RGPD, le protectionisme sous l’angle des données et le cloud souverain](https://ajimoti.com/2020/08/07/bataille-autour-des-donnees-et-du-cloud/)
+- [La startup nation, l’économie des TIC et la structuration de la tech Française](https://ajimoti.com/2020/08/11/leconomie-des-tic/) 
 
 J’ai décidé dans cette série de ne pas parler de l’aspect emploi qui est pourtant très important dans ce livre. Cela pourra être l’objet d’un autre billet plus indépendant.Par contre n’hésitez pas à voir cette vidéo entre temps :
 

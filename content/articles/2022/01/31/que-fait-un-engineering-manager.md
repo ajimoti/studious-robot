@@ -64,7 +64,7 @@ Voyons ce que cela donne chez nous.
 
 Pour poser une première définition dans le contexte de Malt. L’engineering manager chez nous est un rôle de management, à l’opposé des rôles de leadership et de contributeurs individuels. 
 
-Dans [un ancien billet](https://eventuallycoding.com/2021/06/24/senior-avec-6-ans-dexperience-et-apres/) j’avais pris le temps de parler de la branche “leadership”. 
+Dans [un ancien billet](https://ajimoti.com/2021/06/24/senior-avec-6-ans-dexperience-et-apres/) j’avais pris le temps de parler de la branche “leadership”. 
 
 Reprenons ce schéma que j’avais utilisé : 
 
@@ -80,7 +80,7 @@ En schématisant, à partir des axes de lecture définis plus haut, cela nous do
 
 En contributeur individuel : 
 
-[![](/images/Illustration_sans_titre-56-1024x842.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/01/Illustration_sans_titre-56.jpg)
+[![](/images/Illustration_sans_titre-56-1024x842.jpg)](https://ajimoti.com/wp-content/uploads/2022/01/Illustration_sans_titre-56.jpg)
 
 Le contributeur individuel senior :
 
@@ -91,7 +91,7 @@ Le contributeur individuel senior :
 
 En Staff engineer et plus (branche leadership)
 
-[![](/images/Illustration_sans_titre-52-1024x842.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/01/Illustration_sans_titre-52.jpg)
+[![](/images/Illustration_sans_titre-52-1024x842.jpg)](https://ajimoti.com/wp-content/uploads/2022/01/Illustration_sans_titre-52.jpg)
 
 A partir de ce niveau, on est toujours sur des contributeurs individuels, mais on attend le cran du dessus :
 
@@ -102,7 +102,7 @@ A partir de ce niveau, on est toujours sur des contributeurs individuels, mais o
 
 En Engineering Manager :
 
-[![](/images/Illustration_sans_titre-51-1024x842.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/01/Illustration_sans_titre-51.jpg)
+[![](/images/Illustration_sans_titre-51-1024x842.jpg)](https://ajimoti.com/wp-content/uploads/2022/01/Illustration_sans_titre-51.jpg)
 
 L’Engineering Manager :
 
@@ -132,11 +132,11 @@ Les missions premières du Scrum Master sont :
 
 Si on s’arrête à la définition, le Scrum Master est ce que Marty Cagan appelle un “process people”. Et je vais [vous laisser lire ce qu’il en dit sur son blog](https://svpg.com/process-people/).
 
-[![](/images/Illustration_sans_titre-58-1024x551.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/01/Illustration_sans_titre-58.jpg)
+[![](/images/Illustration_sans_titre-58-1024x551.jpg)](https://ajimoti.com/wp-content/uploads/2022/01/Illustration_sans_titre-58.jpg)
 
 Si on résume cela sur les 4 axes vus précédemment :
 
-[![](/images/Illustration_sans_titre-57-1024x842.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/01/Illustration_sans_titre-57.jpg)
+[![](/images/Illustration_sans_titre-57-1024x842.jpg)](https://ajimoti.com/wp-content/uploads/2022/01/Illustration_sans_titre-57.jpg)
 
 Le sujet est avant tout de s’assurer de l’efficacité collective de l’équipe (tout en restant dans le cadre de la méthode Scrum). L’aspect humain est présent mais la méthode Scrum ne définit aucune responsabilité de suivi individuel, gestion de la formation, recrutement etc… 
 
@@ -169,7 +169,7 @@ Le CDP est la personne responsable de l’avancement, du planning, de l'exécuti
 
 Selon nos axes vus avant cela se représenterait comme suit :
 
-[![](/images/Illustration_sans_titre-53-1024x842.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/01/Illustration_sans_titre-53.jpg)
+[![](/images/Illustration_sans_titre-53-1024x842.jpg)](https://ajimoti.com/wp-content/uploads/2022/01/Illustration_sans_titre-53.jpg)
 
 On notera donc un focus particulier sur l’efficacité collective en vue de tenir les plannings. Je place l’axe business sur “moyen” car dans ce type d’organisation on se concentre surtout sur le résultat (la sortie de tel ou tel projet), pas l’impact final. Mais je chipote. 
 
@@ -215,7 +215,7 @@ En 2017 l’équipe engineering faisait environ 10 personnes, je m’occupais co
 
 C’est pourquoi nous avions également des “leads” qui prenaient ce rôle de mentors et coachs. Ces leads pourraient être représentés comme suit dans leurs rôles de tous les jours :
 
-[![](/images/Illustration_sans_titre-54-1024x842.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/01/Illustration_sans_titre-54.jpg)
+[![](/images/Illustration_sans_titre-54-1024x842.jpg)](https://ajimoti.com/wp-content/uploads/2022/01/Illustration_sans_titre-54.jpg)
 
 La situation a pu perdurer jusqu'en 2019 mais avec plusieurs limitations :
 
@@ -225,7 +225,7 @@ La situation a pu perdurer jusqu'en 2019 mais avec plusieurs limitations :
 
 C’est pourquoi fin 2019 nous avons recruté un VP engineering afin de préparer les futures étapes de notre croissance. 
 
-([Plus d’infos sur ce poste dans un ancien billet de ce blog](https://eventuallycoding.com/2021/09/01/differences-entre-vp-engineering-et-cto/))
+([Plus d’infos sur ce poste dans un ancien billet de ce blog](https://ajimoti.com/2021/09/01/differences-entre-vp-engineering-et-cto/))
 
 Suite à cela, le premier poste d’engineering Manager est apparu fin 2020, en prolongement de l’action du VP Engineering. 
 
@@ -245,7 +245,7 @@ Donc la culture, c’est l’attitude que vous allez adopter pour répondre à u
 
 Il existe des tas d’entreprises qui utilisent exactement les mêmes outils que vous, les mêmes définitions théoriques des métiers, et pourtant, la culture peut créer un monde gigantesque entre deux sociétés en apparence identique. 
 
-La culture c’est par exemple comment vous allez gérer [la formation continue](https://eventuallycoding.com/2021/10/20/se-tenir-a-jour-dans-une-equipe-produit/) ou [la philosophie derrière la mesure de la performance](https://eventuallycoding.com/2021/10/07/faut-il-mesurer-la-performance-dune-equipe-engineering/). 
+La culture c’est par exemple comment vous allez gérer [la formation continue](https://ajimoti.com/2021/10/20/se-tenir-a-jour-dans-une-equipe-produit/) ou [la philosophie derrière la mesure de la performance](https://ajimoti.com/2021/10/07/faut-il-mesurer-la-performance-dune-equipe-engineering/). 
 
 Or l’Engineering Manager est une personne qui doit incarner cette culture. C’est l’une des personnes qui va être le liant dans l’équipe, et en dehors de l’équipe. Elle va travailler sur l’efficacité collective, dégoupiller les problèmes, faciliter la communication et l’alignement avec la stratégie de la boite, du département, de l’équipe. 
 
@@ -255,7 +255,7 @@ Bref, lors du recrutement il faut être très vigilant sur l’adéquation entre
 
 Chez Malt nous avons un chemin de progression qui est assez proche du standard :
 
-[![](/images/Illustration_sans_titre-50-502x1024.jpg)](https://eventuallycoding.com/wp-content/uploads/2022/01/Illustration_sans_titre-50.jpg)
+[![](/images/Illustration_sans_titre-50-502x1024.jpg)](https://ajimoti.com/wp-content/uploads/2022/01/Illustration_sans_titre-50.jpg)
 
 A chaque niveau il y a deux éléments qui vont influer sur la progression :
 
@@ -287,11 +287,11 @@ J’ai l’impression qu’aucune solution n’est parfaite. Le choix sera assez
 
 Pour conclure ce billet, je vais essayer de le rendre plus concret en listant quelques sujets traités par les Engineering Manager chez Malt :
 
-- [La gestion de la formation et du partage de connaissances](https://eventuallycoding.com/2021/10/20/se-tenir-a-jour-dans-une-equipe-produit/)
+- [La gestion de la formation et du partage de connaissances](https://ajimoti.com/2021/10/20/se-tenir-a-jour-dans-une-equipe-produit/)
 - L’organisation des Malt Tech days
 - La structuration des étapes de recrutements par métier
 - L’organisation des offsite
-- [La mesure de la performance de l’équipe engineering pour mettre en musique l’amélioration continue](https://eventuallycoding.com/2021/10/07/faut-il-mesurer-la-performance-dune-equipe-engineering/)
+- [La mesure de la performance de l’équipe engineering pour mettre en musique l’amélioration continue](https://ajimoti.com/2021/10/07/faut-il-mesurer-la-performance-dune-equipe-engineering/)
 - La définition des chemins de progressions individuels par métiers (career path)
 - Les parcours d’arrivées des nouvelles recrues
 - La définition et la mise en place de suivi de métriques par équipe

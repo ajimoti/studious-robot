@@ -1,7 +1,7 @@
 ---
 id: "2035"
 title: "Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3"
-description: "[english version here](https://eventuallycoding.com/2022/04/14/integration-and-web-development-with-bulma-vue-js-etc-coderwatch-episode-3/)
+description: "[english version here](https://ajimoti.com/2022/04/14/integration-and-web-development-with-bulma-vue-js-etc-coderwatch-episode-3/)
 
 Parlons u..."
 date: "2022-04-14"
@@ -17,7 +17,7 @@ img: "pasted-image-0.png"
 cover: "cover4.jpg"
 
 alternates:
-    - en: "https://eventuallycoding.com/en/2022/04/08/integration-and-web-development-with-bulma-vue-js-etc-coderwatch-episode-3"
+    - en: "https://ajimoti.com/en/2022/04/08/integration-and-web-development-with-bulma-vue-js-etc-coderwatch-episode-3"
 ---
 
 Parlons un peu intégration Web, HTML, CSS et dev Frontend. 
@@ -36,14 +36,14 @@ Sur chaque billet à partir de maintenant je donnerais aussi un bilan intermédi
 
 Les billets de cette série :
 
-- [C’est l’histoire d’un side project : cultiver une idée, créer un MVP](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/)
-- [Coderwatch : épisode 2 : Design avec Figma et Procreate](https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
-- [Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3](https://eventuallycoding.com/2022/04/14/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3/)
-- [Spring Boot et Vue.js - Coderwatch episode 4](https://eventuallycoding.com/2022/05/04/spring-boot-et-vue-js-coderwatch-episode-4/)
+- [C’est l’histoire d’un side project : cultiver une idée, créer un MVP](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/)
+- [Coderwatch : épisode 2 : Design avec Figma et Procreate](https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
+- [Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3](https://ajimoti.com/2022/04/14/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3/)
+- [Spring Boot et Vue.js - Coderwatch episode 4](https://ajimoti.com/2022/05/04/spring-boot-et-vue-js-coderwatch-episode-4/)
 
 Dans le billet précédent j’ai créé une maquette avec Figma et désormais il faut se retrousser les manches pour l’intégrer en HTML/CSS. 
 
-[![](/images/pasted-image-0.png)](https://eventuallycoding.com/wp-content/uploads/2022/04/pasted-image-0.png)
+[![](/images/pasted-image-0.png)](https://ajimoti.com/wp-content/uploads/2022/04/pasted-image-0.png)
 
 ## Intégration HTML/CSS, avec ou sans framework ?
 
@@ -134,7 +134,7 @@ Si on oublie les outils de build, c’était vraiment plaisant de bosser sur cet
 
 Le lancement officiel remonte à 2 semaines. Le nombre de joueurs est de 33 et a connu une augmentation ce jour-là avec le premier article de cette série. Cependant le rythme de nouveaux utilisateurs est assez faible.
 
-[![](/images/pasted-image-0-8-1024x508.png)](https://eventuallycoding.com/wp-content/uploads/2022/04/pasted-image-0-8.png)
+[![](/images/pasted-image-0-8-1024x508.png)](https://ajimoti.com/wp-content/uploads/2022/04/pasted-image-0-8.png)
 
 Le nombre de quizz joués est de 39, ce qui implique que plusieurs joueurs n’ont joué qu’une seule fois sans revenir. 
 

@@ -12,7 +12,7 @@ listed: false
 book: "impactfulSoftwareEngineering"
 language: "en"
 alternates:
-  - fr: "https://eventuallycoding.com/2023/02/impactful-software-engineering"
+  - fr: "https://ajimoti.com/2023/02/impactful-software-engineering"
 ---
 
 

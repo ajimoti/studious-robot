@@ -54,7 +54,7 @@ C'est exact. Et pourtant le salaire médian aux US est de $107k (90k€) (2)
 
 ## Des career path plus matures
 
-Je l'évoquais [dans un précédent billet](https://eventuallycoding.com/2021/06/24/senior-avec-6-ans-dexperience-et-apres/), la séniorité ne s'arrête pas après 6 ans d'expérience. Le premier biais que l'on peut évoquer c'est que les salaires les plus élevés concernent en réalité les personnes ayant atteint un certain niveau d'expérience. Or les career path sont plus matures qu'avant et ne s'arrêtent plus à "senior". On parle désormais de staff engineer, principal engineer, distinguished et fellow et ça c'est une des principales différences par rapport à il y a 10 ans. Il existait bien sûr des experts mais c'était plus exceptionnel. Aujourd'hui on a gagné en maturité sur le sujet. On sait mieux définir l'impact attendu à chaque niveau et les étapes à franchir.
+Je l'évoquais [dans un précédent billet](https://ajimoti.com/2021/06/24/senior-avec-6-ans-dexperience-et-apres/), la séniorité ne s'arrête pas après 6 ans d'expérience. Le premier biais que l'on peut évoquer c'est que les salaires les plus élevés concernent en réalité les personnes ayant atteint un certain niveau d'expérience. Or les career path sont plus matures qu'avant et ne s'arrêtent plus à "senior". On parle désormais de staff engineer, principal engineer, distinguished et fellow et ça c'est une des principales différences par rapport à il y a 10 ans. Il existait bien sûr des experts mais c'était plus exceptionnel. Aujourd'hui on a gagné en maturité sur le sujet. On sait mieux définir l'impact attendu à chaque niveau et les étapes à franchir.
 
 ## Un marché segmenté
 
@@ -62,7 +62,7 @@ Ces écarts de salaire sont aussi liés à la segmentation du marché et à un e
 
 Sauf que, c'est de ce groupe d'entreprise qu'on parle le plus, produisant un effet loupe qui déforme la vision du marché.
 
-[![](/images/Illustration_sans_titre-16-1024x664.jpg)](https://eventuallycoding.com/wp-content/uploads/2021/07/Illustration_sans_titre-16.jpg)
+[![](/images/Illustration_sans_titre-16-1024x664.jpg)](https://ajimoti.com/wp-content/uploads/2021/07/Illustration_sans_titre-16.jpg)
 
 Alors on le sait, il faut se méfier des bulles de filtre. On peut vivre dans un écosystème, qu’il soit géographique, social, sectoriel ou autre et être entouré de personnes dans une situation assez similaire. Malgré tout, il est facile de se faire avoir et d’autant plus si cela paraît séduisant. 
 
@@ -229,7 +229,7 @@ Sauf que plus il y a d’entreprises avec des moyens, plus ce 80eme percentile �
 
 Saviez-vous que le montant d’investissement dans les startups pourrait atteindre 94 Milliards en Europe d’ici fin d’année ? C’est presque 2.5 fois l’argent investi l’année dernière.
 
-[![](/images/fundings.png)](https://eventuallycoding.com/wp-content/uploads/2021/07/fundings.png)
+[![](/images/fundings.png)](https://ajimoti.com/wp-content/uploads/2021/07/fundings.png)
 
 En France, le nombre de licornes a été multiplié par 5 depuis 2015 dont 7 juste cette année. Et cet argent est investi massivement dans les recrutements, notamment dans le produit. 
 
@@ -241,7 +241,7 @@ Si vous prenez deux boites avec le même volume d’affaires (GMV en anglais), c
 
 S’il y a des années, on prenait en compte les usines, les brevets, les moyens de production dans la valeur d’une société, désormais on prend aussi en compte un actif immatériel : le nombre de personnes qui travaillent sur le produit. Et, selon le marché boursier, ça vaut cher :
 
-[![](/images/biggestValuations-539x1024.png)](https://eventuallycoding.com/wp-content/uploads/2021/07/biggestValuations.png)
+[![](/images/biggestValuations-539x1024.png)](https://ajimoti.com/wp-content/uploads/2021/07/biggestValuations.png)
 
 Bref, 5 fois plus de licornes en France, 3 fois plus d’investissement en Europe, c’est beaucoup de boîtes qui cherchent à recruter et dont la croissance en dépend, donc la montée des rémunérations n’est pas prête de s’arrêter. 
 

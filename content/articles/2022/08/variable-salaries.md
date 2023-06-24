@@ -13,7 +13,7 @@ cover: "money.jpeg"
 ---
 
 
-J’ai récemment eu une discussion sur un Slack autour du sujet du variable pour les métiers techs. Globalement je trouve cela contreproductif et je l’avais évoqué dans [le billet sur la mesure de la performance d’une équipe tech](https://eventuallycoding.com/2021/10/07/faut-il-mesurer-la-performance-dune-equipe-engineering/#les-m%C3%A9triques-au-service-de-lam%C3%A9lioration-continue). Mais c’était très laconique :
+J’ai récemment eu une discussion sur un Slack autour du sujet du variable pour les métiers techs. Globalement je trouve cela contreproductif et je l’avais évoqué dans [le billet sur la mesure de la performance d’une équipe tech](https://ajimoti.com/2021/10/07/faut-il-mesurer-la-performance-dune-equipe-engineering/#les-m%C3%A9triques-au-service-de-lam%C3%A9lioration-continue). Mais c’était très laconique :
 
 
 > _Avant d’aller plus loin, je précise que pour ma part, de façon générale, je ne suis pas favorable au variable sur les postes Engineering. Au moins pas avant les postes de staff engineering et plus mais ce n'est pas le sujet de ce billet donc je ne m'étendrai pas là dessus._ 

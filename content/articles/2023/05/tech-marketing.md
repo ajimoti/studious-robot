@@ -14,7 +14,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "fr"
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/05/tech-marketing"
+  - en: "https://ajimoti.com/en/2023/05/tech-marketing"
 ---
 
 Quelques années plus tôt, j’ai travaillé pour une autre entreprise internationale. Nous utilisions des outils produits par des équipes aux US. Je me rappelle encore du lancement d’une nouvelle version d’un de leurs outils sous le nom de code NorthStar.
@@ -76,9 +76,9 @@ J’aime bien parler “d’extraire le rapport signal bruit”.
 
 Prenons des exemples :
 * Parmi tous les chantiers possibles, vous avez choisi de travailler sur les chantiers A et B. Pourquoi ? Comment sont-ils reliés avec la stratégie de l’entreprise ?
-  Il s’agit de mettre en place une [culture orientée data](https://eventuallycoding.com/2023/02/measuring-everything).
+  Il s’agit de mettre en place une [culture orientée data](https://ajimoti.com/2023/02/measuring-everything).
 * Une fois un choix fait, comment faites-vous pour rassembler les bonnes personnes et s’assurer que tout le monde comprenne cette priorité ?
-  C’est, entre-autres, une question [de leadership](https://eventuallycoding.com/2023/05/engineering-leadership).
+  C’est, entre-autres, une question [de leadership](https://ajimoti.com/2023/05/engineering-leadership).
 * Le chantier réalisé, comment vous assurez-vous qu’il ait de l’impact, qu’il soit utilisé ?
   Il y a un enjeu de distribution.
 

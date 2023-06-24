@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "fr"
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/03/being-in-the-room"
+  - en: "https://ajimoti.com/en/2023/03/being-in-the-room"
 ---
 
 J'ai commencé ma carrière par un premier stage dans une startup Web en 2001. Je crois m'être ensuite créé une solide expérience en tant que Développeur. Mais tout au long de ma carrière j'ai eu plusieurs expériences qui m'ont fait comprendre qu'il y avait un problème dans la façon dont beaucoup d'entreprises abordent le développement produit.
@@ -61,7 +61,7 @@ Lorsque j'ai participé à la création de Malt, j'avais deux motivations princi
 La première était de bousculer les codes du marché du Consulting/Freelancing, changer les pratiques pour les rendre plus transparentes, déboulonner les intermédiaires, simplifier la vie des freelances.  
 Mais la seconde raison, c'était de construire une entreprise, dans laquelle j'aurais aimé travailler moi-même en tant que salarié. Et l'un des facteurs, c'était pour moi de créer une culture Engineering et Produit forte, efficace, qui soit le vecteur principal de notre croissance.
 
-C'est cela que j'ai envie de partager sur les futurs chapitres de [Impactful Software Engineering](https://eventuallycoding.com/2023/02/impactful-software-engineering) dont ce billet de blog est l'introduction. Je souhaite partager ce que j'ai appris durant toutes ces années et permettre à d'autres leaders techniques d'en profiter.
+C'est cela que j'ai envie de partager sur les futurs chapitres de [Impactful Software Engineering](https://ajimoti.com/2023/02/impactful-software-engineering) dont ce billet de blog est l'introduction. Je souhaite partager ce que j'ai appris durant toutes ces années et permettre à d'autres leaders techniques d'en profiter.
 
 Je souhaite m'adresser en particulier aux “Tech Leads”, quel qu'ils soient (CTO, Staff Engineer, Senior Engineer). Par ricochet cela peut être utile aux Engineering Managers (VP, Eng Manager, Directors of eng…) dont l'aide est nécessaire.  
 Mais cela peut servir bien sûr à d'autres personnes intéressées par la construction d'entreprise produit/tech efficace.

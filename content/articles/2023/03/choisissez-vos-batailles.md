@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "fr"
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/03/choose-your-battles"
+  - en: "https://ajimoti.com/en/2023/03/choose-your-battles"
 ---
 Tout le monde connaît théoriquement l’importance de savoir prioriser et pourtant, beaucoup d’entre nous échouent à faire des choix.
 

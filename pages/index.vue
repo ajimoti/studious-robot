@@ -16,7 +16,7 @@
                                     <p
                                         class="name rounded-xl font-bold p-2 tracking-wider"
                                     >
-                                        <span class="text-2xl">Hi, I'm</span>
+                                        <span class="text-2xl">Hi, I'm </span>
                                         <span class="font-extrabold text-2xl">{{
                                             siteMetaInfo.author
                                         }}</span>
@@ -154,7 +154,7 @@ useHead({
         {
             hid: "og:url",
             name: "og:url",
-            content: "https://eventuallycoding.com",
+            content: "https://ajimoti.com",
         },
         { name: "twitter:text:title", content: "A propos de l'auteur" },
         { name: "twitter:card", content: "summary" },

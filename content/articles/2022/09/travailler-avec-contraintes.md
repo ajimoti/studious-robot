@@ -28,7 +28,7 @@ Oui, non, parce que c'était une entreprise collaborative basée sur les princip
 
 Nous mettions donc de côté des sous pour financer des projets internes.
 
-Et il en est sorti plusieurs, certains plus proches [de sides projects que de vrais produits](https://eventuallycoding.com/2020/07/27/produit-versus-side-project/) mais il y a eu de supers idées qui ont fusé. L'un de ces sides projects, ce fut Malt. Mais ceci est une autre histoire.
+Et il en est sorti plusieurs, certains plus proches [de sides projects que de vrais produits](https://ajimoti.com/2020/07/27/produit-versus-side-project/) mais il y a eu de supers idées qui ont fusé. L'un de ces sides projects, ce fut Malt. Mais ceci est une autre histoire.
 
 Toujours est-il que Malt n'est pas devenu Atlassian ou Basecamp. Mais pourquoi donc ?
 

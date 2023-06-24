@@ -30,14 +30,14 @@ Sur chaque billet je donnerais aussi un bilan intermédiaire pour dire où en es
 
 Les billets de cette série :
 
-- [C’est l’histoire d’un side project : cultiver une idée, créer un MVP](https://eventuallycoding.com/2022/04/04/cest-lhistoire-dun-side-project/)
-- [Coderwatch : épisode 2 : Design avec Figma et Procreate](https://eventuallycoding.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
-- [Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3](https://eventuallycoding.com/2022/04/14/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3/)
-- [Spring Boot et Vue.js - Coderwatch episode 4](https://eventuallycoding.com/2022/05/04/spring-boot-et-vue-js-coderwatch-episode-4/)
+- [C’est l’histoire d’un side project : cultiver une idée, créer un MVP](https://ajimoti.com/2022/04/04/cest-lhistoire-dun-side-project/)
+- [Coderwatch : épisode 2 : Design avec Figma et Procreate](https://ajimoti.com/2022/04/08/coderwatch-episode-2-design-avec-figma-et-procreate/)
+- [Intégration et dev web avec Bulma, Vue.js etc... - Coderwatch episode 3](https://ajimoti.com/2022/04/14/integration-et-dev-web-avec-bulma-vue-js-etc-coderwatch-episode-3/)
+- [Spring Boot et Vue.js - Coderwatch episode 4](https://ajimoti.com/2022/05/04/spring-boot-et-vue-js-coderwatch-episode-4/)
 
 Dans le billet précédent je décrivais comment s’était déroulé l’intégration de la maquette de Coderwatch. Mais jusqu’à présent, le site n’était qu’une coquille vide et il fallait encore créer toute la logique métier de Coderwatch. 
 
-[![](/images/pasted-image-0.png)](https://eventuallycoding.com/wp-content/uploads/2022/04/pasted-image-0.png)
+[![](/images/pasted-image-0.png)](https://ajimoti.com/wp-content/uploads/2022/04/pasted-image-0.png)
 
 ## Quelle technologie pour le backend ?
 
@@ -157,7 +157,7 @@ Parlons un peu chiffres et Discovery. 
 
 Le lancement officiel remonte à 4 semaines. Le nombre de joueurs est de 40, ça représente +21% depuis le dernier billet de blog mais ça reste encore modeste. 
 
-[![](/images/pasted-image-0-9-1024x505.png)](https://eventuallycoding.com/wp-content/uploads/2022/05/pasted-image-0-9.png)
+[![](/images/pasted-image-0-9-1024x505.png)](https://ajimoti.com/wp-content/uploads/2022/05/pasted-image-0-9.png)
 
 Le nombre de quizz joués est de 46 (+18%). 
 

@@ -8,7 +8,7 @@ tags:
 cover: "startup.jpg"
 
 alternates:
-    - en: "https://eventuallycoding.com/en/2023/01/questions-startup"
+    - en: "https://ajimoti.com/en/2023/01/questions-startup"
 ---
 
 Ça y est, vous avez une offre d’une startup sur la table, mais vous ne savez pas vraiment quoi en penser.
@@ -257,7 +257,7 @@ Pour certains, ce ne sera pas une surprise si je dis qu’une startup n’est pa
 
 Soyons clairs, **l’inflation dont on parle plus haut concerne les scale-ups**, assez peu les startups sauf à quelques rares exceptions.
 
-Si je reprends [un ancien billet](https://eventuallycoding.com/2021/07/06/les-salaires-dans-la-tech), les startups sont dans ce que j’appelle le groupe I.
+Si je reprends [un ancien billet](https://ajimoti.com/2021/07/06/les-salaires-dans-la-tech), les startups sont dans ce que j’appelle le groupe I.
 
 Le salaire doit donc être très proche de ceux qu’on peut trouver sur tous les benchmarks généralistes du marché : urban linker, talent.io, welovedevs, silkhom, afup etc…
 

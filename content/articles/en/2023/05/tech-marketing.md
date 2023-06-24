@@ -14,7 +14,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "en"
 alternates:
-  - fr: "https://eventuallycoding.com/2023/05/tech-marketing"
+  - fr: "https://ajimoti.com/2023/05/tech-marketing"
 ---
 
 A few years earlier, I worked for another international company. We were using tools produced by teams in the US. I still remember the launch of a new version of one of their tools under the code name NorthStar.
@@ -76,9 +76,9 @@ I like to call it "extracting the signal-to-noise ratio".
 
 Let's take some examples:
 * Of all the possible tasks, you chose to work on tasks A and B. Why? How do they relate to the company's strategy?
-  It's a matter of implementing a [data-driven culture](https://eventuallycoding.com/en/2023/02/measuring-everything).
+  It's a matter of implementing a [data-driven culture](https://ajimoti.com/en/2023/02/measuring-everything).
 * Once a choice has been made, how do you get the right people together and make sure that everyone understands this priority?
-  This is, among other things, a question of [leadership](https://eventuallycoding.com/en/2023/05/engineering-leadership).
+  This is, among other things, a question of [leadership](https://ajimoti.com/en/2023/05/engineering-leadership).
 * Once you've done the work, how do you make sure it has impact, that it's used?
   There is a distribution issue.
 

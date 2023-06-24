@@ -8,7 +8,7 @@ tags:
 cover: "startup.jpg"
 language: "en"
 alternates:
-    - fr: "https://eventuallycoding.com/2023/01/questions-startup"
+    - fr: "https://ajimoti.com/2023/01/questions-startup"
 ---
 
 That’s it, you have an offer from a startup on the table, but you don’t really know what to think about it.

@@ -12,7 +12,7 @@ language: "fr"
 
 Voici le second volet de ce billet de blog sur les salaires US et FR.
 
-Dans [le premier billet](https://eventuallycoding.com/2023/05/evolution-salaries-10-years), nous avons regardé comment les salaires ont évolué entre la France et les US sur 10 ans. La conclusion étant que les écarts se sont creusés avec une augmentation générale des salaires aux US plus importante qu’en France malgré une inflation quasi comparable (+19 en France contre +24 aux US sur la même période).
+Dans [le premier billet](https://ajimoti.com/2023/05/evolution-salaries-10-years), nous avons regardé comment les salaires ont évolué entre la France et les US sur 10 ans. La conclusion étant que les écarts se sont creusés avec une augmentation générale des salaires aux US plus importante qu’en France malgré une inflation quasi comparable (+19 en France contre +24 aux US sur la même période).
 
 Mais, comparer des salaires sans regarder ce que ce salaire peut procurer en termes de niveau de vie ne rime pas à grand-chose. Et si on allait un peu plus loin ?
 

@@ -11,7 +11,7 @@ cover: "cover2.jpg"
 
 ![lyon](/images/3bd6f-lyon.jpg)Début d’année oblige, c’est l’heure des résolutions mais aussi des bilans.
 
-En septembre 2011 je publiais un article [“18 mois de freelance, alors quel bilan ?”](https://eventuallycoding.com/2011/09/20/18-mois-de-freelance-alors-quel-bilan). En janvier 2014 j’ai fait pas mal de chemin entre l’arrêt de [www.localizeyourapps.com](http://www.localizeyourapps.com), la création de [www.lateral-thoughts.com](http://www.lateral-thoughts.com) et la création de [www.hopwork.com](https://www.malt.com).
+En septembre 2011 je publiais un article [“18 mois de freelance, alors quel bilan ?”](https://ajimoti.com/2011/09/20/18-mois-de-freelance-alors-quel-bilan). En janvier 2014 j’ai fait pas mal de chemin entre l’arrêt de [www.localizeyourapps.com](http://www.localizeyourapps.com), la création de [www.lateral-thoughts.com](http://www.lateral-thoughts.com) et la création de [www.hopwork.com](https://www.malt.com).
 
 Mais le bilan que j’aimerais faire pour l’instant porte sur un changement plus personnel : mon émigration de Paris vers Lyon.
 

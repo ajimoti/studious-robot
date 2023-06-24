@@ -21,7 +21,7 @@ https://twitter.com/maxime_bajeux/status/1581236820419186688
 (et les commentaires sont intéressants)
 
 C'est loin d'être la première fois que Scrum se prend des volées de bois vert. Je vous laisse vous amuser à effectuer la recherche [Scrum is dead](https://www.google.com/search?q=scrum+is+dead&oq=scrum+is+dead) sur Google.  
-Moi-même encore récemment j'écrivais [un billet](https://eventuallycoding.com/2021/06/14/pourquoi-le-sujet-nest-plus-dadopter-lagilite-mais-de-changer-de-culture-produit) dont le premier chapitre s'intitulait "l'Agile est mort"
+Moi-même encore récemment j'écrivais [un billet](https://ajimoti.com/2021/06/14/pourquoi-le-sujet-nest-plus-dadopter-lagilite-mais-de-changer-de-culture-produit) dont le premier chapitre s'intitulait "l'Agile est mort"
 
 Mais dans le même temps j'écrivais :
 
@@ -66,7 +66,7 @@ Mon premier contact avec l'agilité, c'était en 2006/2007, donc plutôt tôt po
 En 2010, étant devenu freelance et bénéficiant de ces 3/4 ans de mise en pratique, j'ai fait une mission d'un an en tant que coach agile. Je participais à l'écosystème, j'ai plusieurs billets de blog ici-même qui parle de ca, de transfo agile etc...
 
 Mais ce fut loin d'être un long fleuve tranquille et j'ai fini par m'en désintéresser car cela n'avait pas toujours l'impact espéré. Et plus le temps passait, plus j'étais irrité par certains gourous de l'agilité. D'ailleurs on parle souvent d'évangéliste, il y a un petit peu quelque chose de négatif là-dedans vous ne trouvez pas ?  
-(Marrant, j'écrivais ca en 2010 : [L'agilité, c'est pas un peu une secte](https://eventuallycoding.com/2010/10/28/euh-lagilite-finalement-cest-pas-un-peu-une-secte-2))
+(Marrant, j'écrivais ca en 2010 : [L'agilité, c'est pas un peu une secte](https://ajimoti.com/2010/10/28/euh-lagilite-finalement-cest-pas-un-peu-une-secte-2))
 J'en pouvais plus de certains discours creux sur les valeurs agiles, des serious games etc...
 
 Et c'est pour ça que c'est un sujet que je n'aborde plus souvent sur mon blog.

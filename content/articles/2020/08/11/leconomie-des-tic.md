@@ -3,7 +3,7 @@ id: "1577"
 title: "L'économie des TIC"
 description: "![](/images/Startup_nation-1024x1024.jpg)
 
-Ce billet fait partie d’une série dont vous pourrez lire [l’introduction ici](https://eventuallycoding.com/..."
+Ce billet fait partie d’une série dont vous pourrez lire [l’introduction ici](https://ajimoti.com/..."
 date: "2020-08-11"
 categories: 
   - "waza"
@@ -17,7 +17,7 @@ cover: "cover2.jpg"
 
 ![](/images/Startup_nation-1024x1024.jpg)
 
-Ce billet fait partie d’une série dont vous pourrez lire [l’introduction ici](https://eventuallycoding.com/2020/08/03/leurope-entre-le-marteau-chinois-et-lenclume-us/).
+Ce billet fait partie d’une série dont vous pourrez lire [l’introduction ici](https://ajimoti.com/2020/08/03/leurope-entre-le-marteau-chinois-et-lenclume-us/).
 
 Le fil rouge global de cette série tourne autour du livre ["IA La plus grande mutation de l'histoire" de Kai-Fu Lee](https://livre.fnac.com/a13452637/Kai-Fu-Lee-I-A-La-Plus-Grande-Mutation-de-l-histoire), livre très bien écrit que je vous résume dans ce premier billet .
 
@@ -140,7 +140,7 @@ Comme je le disais plus haut, les TIC sont un secteur à ne pas négliger car il
 
 Du coup, parlons de la structuration de l’écosystème tech Français, il y a des choses à dire.
 
-En 2013 je publiais un article : [Travailler autrement](https://eventuallycoding.com/2013/08/12/travailler-autrement).
+En 2013 je publiais un article : [Travailler autrement](https://ajimoti.com/2013/08/12/travailler-autrement).
 
 Dans ce billet, je faisais un constat peut être un peu violent (se relire 7 ans plus tard ça fait bizarre) mais j’écrivais ceci : 
 

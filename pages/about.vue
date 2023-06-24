@@ -73,7 +73,7 @@ useHead({
         {
             hid: "og:url",
             name: "og:url",
-            content: "https://eventuallycoding.com/about",
+            content: "https://ajimoti.com/about",
         },
         {
             hid: "og:image",
@@ -88,7 +88,7 @@ useHead({
         },
         { name: "twitter:card", content: "summary" },
     ],
-    link: [{ rel: "canonical", href: "https://eventuallycoding.com/about" }],
+    link: [{ rel: "canonical", href: "https://ajimoti.com/about" }],
 });
 </script>
 

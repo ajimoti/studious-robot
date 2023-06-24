@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "fr"
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/05/engineering-leadership"
+  - en: "https://ajimoti.com/en/2023/05/engineering-leadership"
 ---
 Il y a quelques années, lors d’un meetup à Lyon je me rappelle avoir rencontré un jeune diplômé, appelons-le José, qui était intéressé par Malt. Il avait eu une manière surprenante d’entamer la discussion. Il me disait qu’il ne souhaitait pas trop parler et que son métier de toute façon ne nécessitait pas d’interactions, juste de coder. Autant dire qu’il ne m’avait pas totalement convaincu.
 
@@ -102,7 +102,7 @@ On évoque souvent les 10x developers, des personnes qui produisent 10x plus. Ma
 ![Impact growing by circle](/images/circle-impact.png)
 ::
 
-Je l’évoquais [dans un chapitre précédent](https://eventuallycoding.com/2023/03/individual-impact#growing-impact-with-experience), l’influence et l’impact que l’on peut avoir en tant que contributeur individuel doit dépasser le cercle de l’équipe produit. Pour cela il faut étendre son réseau, que ce soit à travers l’ensemble de l’entreprise ou en dehors.
+Je l’évoquais [dans un chapitre précédent](https://ajimoti.com/2023/03/individual-impact#growing-impact-with-experience), l’influence et l’impact que l’on peut avoir en tant que contributeur individuel doit dépasser le cercle de l’équipe produit. Pour cela il faut étendre son réseau, que ce soit à travers l’ensemble de l’entreprise ou en dehors.
 
 J’entends par là, faire du shadow (observer des personnes du support, ou des équipes commerciales), prendre le rôle d’une personne pendant une journée (le support s’y prête bien), et tout simplement participer à des discussions métiers avec les autres départements.
 

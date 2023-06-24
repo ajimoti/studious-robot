@@ -36,7 +36,7 @@ Je vous invite à lire la suite :)
 
 Ce billet est une mise à jour d'un ancien billet paru en 2014 sur le même thème :
 
-[Calculer ses revenus entre EURL, SASU et salariat](https://eventuallycoding.com/2014/01/24/calculer-ses-revenus-entre-eurl-sasu-et-salariat/)
+[Calculer ses revenus entre EURL, SASU et salariat](https://ajimoti.com/2014/01/24/calculer-ses-revenus-entre-eurl-sasu-et-salariat/)
 
 Il s'est passé 8 ans depuis ce billet (paru également en janvier). J'y distribuais un fichier Google Sheets permettant de déterminer ses revenus nets en fonction du type de société choisi et de certaines options.
 

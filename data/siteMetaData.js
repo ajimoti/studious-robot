@@ -1,23 +1,23 @@
 const siteMetadata = {
-    title: "EventuallyCoding",
-    author: "Hugo Lassiège",
+    title: "Ajimoti",
+    author: "Ajimoti John",
     author_image: "/hugo-nb.jpg",
-    position: "CTO",
-    location: "Lyon, France",
-    slogan: "A la fin de l'envoi, je code !",
+    position: "Software Engineer",
+    location: "Remotely, Everywhere",
+    slogan: "The backend guy",
     description:
         "Speaking about the stuff I do, product, efficiency, tech stack and more.",
-    language: "fr-FR",
+    language: "en-EN",
     theme: "system", // system, dark or light
-    siteUrl: "https://eventuallycoding.com/",
+    siteUrl: "https://ajimoti.com/",
     mastodon: "https://piaille.fr/@hugolassiege",
-    github: "https://github.com/hlassiege",
+    github: "https://github.com/ajimoti",
     githubUser: "hlassiege",
     githubContentUrlInRepo:
-        "https://github.com/hlassiege/eventuallycoding/blob/master/content",
+        "https://github.com/ajimoti/studious-robot/blob/master/content",
     twitter: "https://twitter.com/",
-    twitter_user: "hugolassiege",
-    linkedin: "https://www.linkedin.com/in/hugolassiege/",
+    twitter_user: "ajimotea",
+    linkedin: "https://www.linkedin.com/in/john-ajimoti-3420a786/",
     rss: "/rss.xml",
 };
 

@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "en"
 alternates:
-  - fr: "https://eventuallycoding.com/2023/03/accept-boredom"
+  - fr: "https://ajimoti.com/2023/03/accept-boredom"
 ---
 
 Over the years at Malt I have learned an important lesson about time and the need to accept "boredom".
@@ -78,7 +78,7 @@ This is a comfort zone, but if we want to contribute more, we need to take back 
 From Senior, you are expected to work on the right problems to solve. Anticipation is expected. Proactivity and clarity are expected.
 Clarity being to be able to isolate the right issues to tackle among the multitude of activities of a product team.
 
-To do this, I suggest that you take the approach we saw together in the chapter ["Measuring everything"](https://eventuallycoding.com/en/2023/02/measuring-everything): LIME (for Listen, Ideas, Measure, Evolve)
+To do this, I suggest that you take the approach we saw together in the chapter ["Measuring everything"](https://ajimoti.com/en/2023/02/measuring-everything): LIME (for Listen, Ideas, Measure, Evolve)
 
 The first step is "Listen", and for that you need time.
 

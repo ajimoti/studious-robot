@@ -13,7 +13,7 @@ cover: "cover7.jpg"
 ---
 
 J'étais présent en tant qu'intervenant il y a quelques jours à [un meetup](https://www.linkedin.com/events/conf-rence-cequeveulentlesdev-l6862389414971211776/) sur le thème **"ce que veulent les devs à l'ère post covid"** et j'aimerais revenir sur quelques questions qui ont été posées en session de Q&A.  
-Déjà pour présenter le contexte, j'ai été invité à participer avec 3 autres participants pour venir parler de ce sujet. Pour ma part c'était lié à l'article que j'avais sorti en début d'année sur "[les salaires dans la tech](https://eventuallycoding.com/2021/07/06/les-salaires-dans-la-tech/)" .
+Déjà pour présenter le contexte, j'ai été invité à participer avec 3 autres participants pour venir parler de ce sujet. Pour ma part c'était lié à l'article que j'avais sorti en début d'année sur "[les salaires dans la tech](https://ajimoti.com/2021/07/06/les-salaires-dans-la-tech/)" .
 
 L'évènement étant hébergé dans un incubateur c'est finalement assez logique que l'on retrouve majoritairement des porteurs et porteuses de projets ainsi que des recruteurs et recruteuses dans l'audience.
 
@@ -26,7 +26,7 @@ Je venais de présenter les échelles de salaire dans le monde de la tech et la 
 
 Pour répondre je rappellerais que Malt (Ex Hopwork) est passé par là aussi. Nous sommes aujourd'hui presque 300 mais nous avons démarré à 3 avec des finances bien plus réduites.  
 Et j'ai trouvé plusieurs personnes pour qui le challenge de rejoindre un projet de 0 a été un énorme levier de motivation.  
-La motivation qui pousse à rejoindre une petite startup c'est en grande partie la recherche d'autonomie. Etre le ou la première dev, celui qui créé la plateforme, qui fait les premiers choix, qui va toucher à tout, le back, le front, la base de données. Il y a plein de gens qui recherchent cela, et qui sont prêt à être payé un peu moins que le marché ou en tout cas au marché du **segment local** ([Cf le billet de blog qui parle des segments de salaire](https://eventuallycoding.com/2021/07/06/les-salaires-dans-la-tech/)).  
+La motivation qui pousse à rejoindre une petite startup c'est en grande partie la recherche d'autonomie. Etre le ou la première dev, celui qui créé la plateforme, qui fait les premiers choix, qui va toucher à tout, le back, le front, la base de données. Il y a plein de gens qui recherchent cela, et qui sont prêt à être payé un peu moins que le marché ou en tout cas au marché du **segment local** ([Cf le billet de blog qui parle des segments de salaire](https://ajimoti.com/2021/07/06/les-salaires-dans-la-tech/)).  
 Mais il y a un deuxième élément que je n'ai pas mentionné hier soir, ce sont les BSPCE (ou stock options si vous ne connaissez pas le premier terme).  
 Certes, vous pouvez pas être trop large en salaire mais vous pouvez filer un bon montant en equity (des parts de l'entreprise). Et je pense qu'il faut le faire. Alors je sais que les BSPCE ne sont pas toujours bien compris. Les devs y sont moins sensibles aussi, à l'inverse d'autres fonctions (commerce et marketing). A vous d'en parler dans les bons termes.  
 Pour ma part j'ai toujours dit que c'était un pari et j'ai pas essayé de vendre du rêve. Pour autant il faut expliquer ce qu'on peut en attendre.  

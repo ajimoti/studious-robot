@@ -5,7 +5,7 @@ cover: "cover1.jpg"
 
 Here is a list of various resources that I use frequently or that have influenced me
 
-And of course in the books section, you can also read the one on this blog: [Impactful Software Engineering](https://eventuallycoding.com/en/2023/02/impactful-software-engineering/)
+And of course in the books section, you can also read the one on this blog: [Impactful Software Engineering](https://ajimoti.com/en/2023/02/impactful-software-engineering/)
 
 ## Books
 

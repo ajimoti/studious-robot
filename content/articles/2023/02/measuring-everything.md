@@ -13,7 +13,7 @@ book: "impactfulSoftwareEngineering"
 
 language: "fr"
 alternates:
-  - en: "https://eventuallycoding.com/en/2023/02/measuring-everything"
+  - en: "https://ajimoti.com/en/2023/02/measuring-everything"
 ---
 > You can't improve what you don't measure  
 [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)

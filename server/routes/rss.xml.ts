@@ -10,12 +10,12 @@ export default defineEventHandler(async (event) => {
     const now = new Date();
 
     const feed = new Feed({
-        title: "Eventually coding",
+        title: "John Ibukun Ajimoti",
         description:
-            "Speaking about the stuff I do, product, efficiency, tech stack and more.",
-        id: "https://eventuallycoding.com",
-        link: "https://eventuallycoding.com",
-        favicon: "https://eventuallycoding.com/favicon.ico",
+            "I am John, a software developer currently making life easier with tech.",
+        id: "https://ajimoti.com",
+        link: "https://ajimoti.com",
+        favicon: "https://ajimoti.com/favicon.ico",
         copyright: `All rights reserved ${now.getFullYear()}, Eventually coding`,
         generator: "https://github.com/jpmonette/feed",
     });
@@ -25,8 +25,8 @@ export default defineEventHandler(async (event) => {
 
             feed.addItem({
                 title: post.title ?? "-",
-                id: "https://eventuallycoding.com" + path,
-                link: "https://eventuallycoding.com" + path,
+                id: "https://ajimoti.com" + path,
+                link: "https://ajimoti.com" + path,
                 description: post.description,
                 date: new Date(post.date),
                 // image: post.img
