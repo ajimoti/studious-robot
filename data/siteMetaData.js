@@ -1,10 +1,10 @@
 const siteMetadata = {
     title: "Ajimoti",
     author: "Ajimoti John",
-    author_image: "/hugo-nb.jpg",
+    author_image: "/ajimoti.png",
     position: "Software Engineer",
     location: "Remotely, Everywhere",
-    slogan: "The backend guy",
+    slogan: "No such thing as a life that's better than yours",
     description:
         "Speaking about the stuff I do, product, efficiency, tech stack and more.",
     language: "en-EN",

@@ -22,13 +22,12 @@
                                 <p
                                     class="mt-8 mb-4 md:text-xl text-base font-mark"
                                 >
-                                    Here you can browse my thoughts on different
-                                    topics, <br />
+                                    Here you can explore my thoughts on different topics, <br />
                                     mostly on Software Development,
                                     <br />
-                                    Entrepreneurship and Startups.<br />
+                                    and Backend Engineering.<br />
                                 </p>
-                                <p
+                                <!-- <p
                                     class="mt-8 mb-4 md:text-xl text-base font-mark"
                                 >
                                     I'm also the author of
@@ -45,7 +44,7 @@
                                     >
                                     <br />
                                     that you can read for free here.
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                     </div>

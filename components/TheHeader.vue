@@ -74,7 +74,7 @@
                                 class="text-white text-base font-medium font-bruno text-2xl font-to-invert-to-pink"
                             >
                                 <nuxt-link to="/"
-                                    >EventuallyCoding.com</nuxt-link
+                                    >Ajimoti.com</nuxt-link
                                 >
                             </span>
                         </div>

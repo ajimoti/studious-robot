@@ -70,14 +70,11 @@ defineProps({
 });
 
 const allTags = [
-    "agile",
-    "architecture",
+    "PHP",
+    "Laravel",
     "backend",
     "engineering",
-    "future-of-work",
+    "cache",
     "freelance",
-    "lateralthoughts",
-    "product",
-    "startup",
 ];
 </script>

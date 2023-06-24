@@ -15,18 +15,17 @@
 
         <div class="mt-10 w-full p-4 text-center bg-white sm:p-8">
             <h5 class="mb-2 text-3xl font-bold text-gray-900 dark:text-white">
-                Hi, I'm the guy behind eventuallycoding.com
+                Hi, I'm John Ajimoti Ibukunoluwa
             </h5>
             <p
                 class="mb-5 text-base text-gray-500 sm:text-lg dark:text-gray-400"
             >
-                I like to share about product development, entrepreneurship and
-                startups. I'm blogging since 2007. <br />
-                If you want to help me pay for the costs associated with this
-                blog (domain name, commenting system etc...) <br />or simply
-                motivate me to continue, you can click on the button below :)
+                I am a senior software developer with over 5 years of experience
+                in building and deploying large-scale software applications. <br />
+                Over the years, I have worked on several softwares for different industries, <br />
+                ranging from hospitality to real estate, and finance.
             </p>
-            <div
+            <!-- <div
                 class="items-center justify-center space-y-4 flex space-y-0 space-x-4"
             >
                 <a
@@ -41,7 +40,7 @@
                             width: 217px !important;
                         "
                 /></a>
-            </div>
+            </div> -->
         </div>
         <hr />
 

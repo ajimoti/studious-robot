@@ -38,20 +38,17 @@
                         <div
                             class="font-montserrat font-medium text-4xl mb-10 text-slate-800 mt-20"
                         >
-                            <h2>
-                                Last blog posts
-                                <small>({{ currentLang }})</small>
-                            </h2>
+                            <h2>Last blog posts</h2>
                         </div>
-                        <small class="ml-3 text-gray-500"
+                        <!-- <small class="ml-3 text-gray-500"
                             >Switch to blog posts in
-                        </small>
-                        <NuxtLink
+                        </small> -->
+                        <!-- <NuxtLink
                             class="underline decoration-red-400 decoration-4 underline-offset-8 text-sm text-gray-500"
                             to="/fr"
                             :external="true"
                             >FR</NuxtLink
-                        >
+                        > -->
 
                         <div
                             class="pt-4 grid lg:grid-cols-3 gap-x-8 md:grid-cols-2 sm:grid-cols-1 items-stretch m-3"

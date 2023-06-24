@@ -1,125 +1,136 @@
 const timeline = [
     {
-        event: "Co-founder and CTO at Malt",
-        date: "201(2|4)- In progress",
-        location: "Europe",
-        description: `Malt is simply THE marketplace for freelancers looking to find clients and simplify their lives.<br>\n
-                            As I write these lines (published in 2022), Malt is 500 people working from Paris, Lyon, Munich, Madrid, Berlin, Brussels, Amsterdam and remotely, 800,000 registered, 300,000 freelancers.<br>\n
-                            And it all started in 2012 with 3 people! <br>\n
-                            On this blog, you will find a good part of what I learned in this great adventure.`,
+        event: "Senior Backend Developer - Harnessgiving",
+        date: "2022 - Present",
+        location: "Tampa, Florida USA",
+        description: `<a style="text-decoration: underline;" target="_blank" href="https://harnessgiving.com">Harnessgiving</a> is a cloud-based donation management software that helps non-profit organizations automate fundraising, <br>\n
+                        receive recurring donations, and interact with donors from a centralized platform.<br>\n
+                        <br>\n
+                        As a senior software as Harnessgiving, my work includes making architectural decisions as we scale our API backend and database.<br>\n`,
         images: [
             {
-                src: "/logos/malt.png",
-                alt: "Malt logo",
+                src: "/logos/harnessgiving_logo.png",
+                alt: "Harnessgiving logo",
                 class: "w-10 h-10 mx-3",
             },
         ],
     },
     {
-        event: "Freelancer",
-        date: "2010-201(4|6)",
-        location: "Paris-Lyon",
-        description:
-            "Finally Free ! <br> This will be my first steps in entrepreneurship and will give me the opportunity to create 3 companies over the period: Lateral-thoughts, Localizeyourapp and Malt.<br>This is another big theme of this blog: entrepreneurship, freelancing and web development.",
+        event: "Senior Backend Engineer - Thepeer.co",
+        date: "2021 - 2023",
+        location: "Lagos, Nigeria",
+        description: `<a style="text-decoration: underline;" target="_blank" href="https://thepeer.co">Thepeer</a> provides channels for businesses to allow their customers to make transfers, fund their accounts, and make payments on the same platform.<br>\n
+                <br>\n
+                As a senior software engineer at Thepeer, I am responsible for handling our integrations with other Fintech companies, and maintaining the core backend API that serves the Business dashboard.<br>\n
+        `,
         images: [
             {
-                src: "/logos/lateral-thoughts.svg",
-                alt: "Logo Lateral-thoughts",
+                src: "/logos/thepeer_logo.png",
+                alt: "Thepeer logo",
                 class: "h-8 mx-3",
-            },
-            {
-                src: "/logos/malt.png",
-                alt: "Logo Malt",
-                class: "w-10 h-10 mx-5 my-auto",
-            },
-            {
-                src: "/logos/localizeyourapp.jpg",
-                alt: "Logo Localizeyourapp",
-                class: "h-10 mx-6",
-            },
-            {
-                src: "/logos/enedis.jpg",
-                alt: "Logo Enedis",
-                class: "w-10 h-10 mx-4 my-auto",
-            },
-            {
-                src: "/logos/egencia.jpg",
-                alt: "Logo Egencia",
-                class: "w-10 h-10 mx-4 my-auto",
-            },
-            {
-                src: "/logos/seb.jpg",
-                alt: "Logo Seb",
-                class: "w-10 h-10 mx-4 my-auto",
-            },
-            {
-                src: "/logos/directassurance.jpg",
-                alt: "Logo Direct Assurance",
-                class: "w-10 h-10 mx-4 my-auto",
             },
         ],
     },
     {
-        event: "Software edition - Finance",
-        date: "2006-2010",
-        location: "Paris",
-        description: `I had the right intuition when I chose the field of finance just at the time of the subprime crisis! \\o/\n
-                            <br>\n
-                            But this is where I discover that I love making product and thinking long term. <br>\n
-                            And this will influence me for the rest of my career, by the people I will meet, by the working methods, the international,\n
-                            and a little bit also unfortunately, things I didn't want to reproduce myself in terms of management..<br>\n
-                            This corresponds to the very first posts of this blog (some of them are not online anymore) !`,
+        event: "Senior Backend Developer - Bitsika",
+        date: "2020-2021",
+        location: "Accra, Ghana",
+        description: `<a style="text-decoration: underline;" target="_blank" href="https://bitsika.africa">Bitsika</a> uses blockchain technology to help Africans receive and send money instantly, from anyone, anywhere at almost zero cost.<br />\n
+            Additionally, Bitsika has transitioned into a social app, that allows customers to write posts, create a profile and engage with your followers and people you follow on your timeline.<br />\n
+            <br>\n
+            At Bitsika, my role encompassed a range of responsibilities focused on maintaining and enhancing the micro-service infrastructure.
+            As the team lead, I effectively oversaw a team of three engineers guiding them in the development and maintenance of a robust API used to serve the merchant service(<a style="text-decoration: underline;" target="_blank" href="https://merchant.bitsika.africa/auth">merchant.bitsika.africa</a>), <br />\n
+            <br>\n
+            I also joined in planning, building and deploying the api service responsible for handling the social media development <br />\n`,
         images: [
             {
-                src: "/logos/sungard-vector-logo.png",
-                alt: "Logo sungard",
+                src: "/logos/bitsika_logo.png",
+                alt: "Bitsika Logo",
                 class: "h-10 mx-3",
             },
         ],
     },
     {
-        event: "Consulting and IT firms",
-        date: "2002-2006",
-        location: "Paris",
-        description: `The time has come for suit, corporate clients and the world of IT firms, a world of its own.<br>\n
-                            It will however be very formative with a great diversity of experiences and lots of great first encounters and learning.<br>\n
-                            But also a certainty, if I did service again in the future, it would not be in these conditions (hello freelancing!)`,
+        event: "Senior Software Developer - Workflare",
+        date: "2020 (Contract)",
+        location: "Leeds, UK",
+        description: `<a style="text-decoration: underline;" target="_blank" href="https://workflare.com/">Workflare</a> is a software tool built to improve communication between agencies and pharmacies. <br />
+                    Workflare does this by automatically keeping both parties informed about new, updated and cancelled shifts as well as available locums.<br>\n
+                    <br>\n
+                    At workflare, I worked directly with the founder of the company to plan, and build the web application from scratch.<br>\n
+                    My work entailed building both the backend API, and the frontend web application. I converted figma designs to working frontend apps, <br>\n
+                    and built and consumed the backend API to make the frontend fully functional.<br>\n`,
         images: [
             {
-                src: "/logos/sg.jpg",
-                alt: "Logo Société Générale",
-                class: "w-10 h-10 mx-5 my-auto",
-            },
-            {
-                src: "/logos/bouygyes.jpg",
-                alt: "Logo Bouygues Telecom",
-                class: "w-10 h-10 mx-5 my-auto",
-            },
-            {
-                src: "/logos/orange.jpg",
-                alt: "Logo Orange",
-                class: "w-10 h-10 mx-5 my-auto",
+                src: "/logos/workflare_logo.svg",
+                alt: "Workflare logo",
+                class: "h-10 mx-3",
+                // class: "w-10 h-10 mx-5 my-auto",
             },
         ],
     },
     {
-        event: "First job in a startup",
-        date: "2001",
-        location: "Paris",
-        description:
-            "Here we can see the instinct, just before the explosion of the internet bubble.<br>\n" +
-            "                2001 for the anecdote, it is: the explosion of the Internet bubble, the end of the transition to Euro, the World Trade center... <br>\n" +
-            "                The job market was far from being good after that.",
-        images: [],
+        event: "Senior Software Developer - NPC",
+        date: "2019-2020",
+        location: "Lagos, Nigeria",
+        description: `<a style="text-decoration: underline;" target="_blank" href="https://nigeriapropertycentre.com/">Nigeria Property Centre</a> is the largest and most visited real estate and property website in Nigeria with property listings for sale, rent and lease.<br>\n
+            <br>\n
+            NPC offers Nigerian property seekers an easy way to find details of property like homes, houses, lands, shops, office spaces and other commercial properties to buy or rent. <br>\n
+            <br>\n
+
+            During my time at NPC, I worked as a Senior Engineer responsible for improving, reviewing and refactoring codes to enhance their readability, maintainability, and performance.<br>\n
+
+            <br>\n
+            I also introduced and built several tools to help combat the high rate of fraud on the platform, and optimize the website's SEO.<br>\n
+            `,
+        images: [
+            {
+                src: "/logos/npc_logo.png",
+                alt: "NPC logo",
+                class: "h-10 mx-3",
+            },
+        ],
     },
     {
-        event: "birth",
-        date: "20th century",
-        location: "France, earth planet",
-        description:
-            "I don't have the exact date anymore, it's not important ;)<br>\n" +
-            "                And you know what, I'm still nostalgic for 80s/90s movies.",
-        images: [],
+        event: "Senior Software Developer - Hotels.ng",
+        date: "2018-2019",
+        location: "Lagos, Nigeria",
+        description: `<a style="text-decoration: underline;" target="_blank" href="https://hotels.ng">Hotels.ng</a> is the largest online travel agency specializing in hotel bookings within Nigeria. <br>\n
+            Hotels.ng help customers book hotel rooms online, provide comprehensive help and support to clients and make the hotel booking process smooth and easy. <br>\n
+            <br>\n
+            At Hotels.ng, I worked as a Senior Software Developer responsible for building and maintaining the backend API that powers the website. Over the years I led a team of seven(7) to plan, develop, and deploy <a style="text-decoration: underline;" target="_blank" href="https://timbu.com">timbu.com</a> a global hotel booking platform, and also worked on making roomcenter.app (hotels.ng extranet) work fine, while also performing DevOps related activities. <br>\n
+        `,
+        images: [
+            {
+                src: "/logos/hng_logo.png",
+                alt: "HNG logo",
+                class: "h-10 mx-3",
+            },
+            {
+                src: "/logos/timbu_logo.avif",
+                alt: "Timbu logo",
+                class: "h-10 mx-3",
+            },
+        ],
+    },
+    {
+        event: "Web Developer - HostNowNow",
+        date: "2016-2018",
+        location: "Lagos, Nigeria",
+        description: `<a style="text-decoration: underline;" target="_blank" href="https://hostnownow.com/">Hostnownow</a> is a web hosting company in Nigeria. Services rendered varies from Website software design, to Cloud Hosting, sitelock, and SSL installation <br>\n
+            <br>\n
+            I worked as a web developer intern at Hostnownow, and transitioned into a Web Developer role after six months. <br />\n
+            <br />\n
+            My role at Hostnownow was to build and maintain various cutting edge web applications for other companies and clients.<br />\n
+        `,
+        images: [
+            {
+                src: "/logos/hnn_logo.png",
+                alt: "HNN logo",
+                class: "h-10 mx-3",
+                // class: "w-10 h-10 mx-5 my-auto",
+            },
+        ],
     },
 ];
 
