@@ -67,7 +67,7 @@ const props = defineProps({
     lang: {
         type: String,
         required: false,
-        default: "fr",
+        default: "en",
     },
     tags: {
         type: Array,
@@ -80,7 +80,7 @@ const props = defineProps({
     currentLang: {
         type: String,
         required: false,
-        default: "fr",
+        default: "en",
     },
 });
 
@@ -88,7 +88,7 @@ const props = defineProps({
 const emit = defineEmits(["changeCurrentTag"]);
 
 function formatDate(date: string) {
-    return new Date(date).toLocaleDateString("fr", {
+    return new Date(date).toLocaleDateString("en", {
         weekday: "short",
         year: "numeric",
         month: "short",
