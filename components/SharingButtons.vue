@@ -74,7 +74,7 @@
                     </button>
                 </a>
             </div>
-            <div class="">
+            <!-- <div class="">
                 <a href="https://www.buymeacoffee.com/hlassiege" target="_blank"
                     ><img
                         src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"
@@ -84,7 +84,7 @@
                             width: 209px !important;
                         "
                 /></a>
-            </div>
+            </div> -->
         </div>
     </div>
 </template>

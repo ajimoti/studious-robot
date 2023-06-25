@@ -3,7 +3,7 @@
         <h1 class="text-4xl text-gray-700 font-extrabold text-center mb-3">
             {{ article.title }}
         </h1>
-        <p class="text-slate-400 text-center mb-1">
+        <!-- <p class="text-slate-400 text-center mb-1">
             <span v-if="article.alternates">
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -23,7 +23,7 @@
                     >{{ Object.keys(alternate)[0] }}</NuxtLink
                 >
             </span>
-        </p>
+        </p> -->
 
         <div class="grid grid-cols-3 text-center sm:w-full md:w-1/2 mx-auto">
             <div>

@@ -44,7 +44,7 @@
                 :post-link="postLink"
             />
 
-            <div id="hyvor-talk-view"></div>
+            <!-- <div id="hyvor-talk-view"></div> -->
         </div>
     </div>
 </template>
