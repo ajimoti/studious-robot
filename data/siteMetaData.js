@@ -9,7 +9,7 @@ const siteMetadata = {
         "Speaking about the stuff I do, product, efficiency, tech stack and more.",
     language: "en-EN",
     theme: "system", // system, dark or light
-    siteUrl: "https://ajimoti.com/",
+    siteUrl: "https://ajimoti.co/",
     mastodon: "https://piaille.fr/@hugolassiege",
     github: "https://github.com/ajimoti",
     githubUser: "hlassiege",

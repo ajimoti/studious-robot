@@ -5,7 +5,7 @@ export default defineEventHandler(async (event) => {
         .where({ listed: { $ne: false } })
         .find();
     const sitemap = new SitemapStream({
-        hostname: "https://ajimoti.com",
+        hostname: "https://ajimoti.co",
     });
     for (const doc of docs) {
         if (doc._path !== "/resources/resources") {

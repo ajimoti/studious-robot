@@ -7,50 +7,50 @@ interface Toc {
 const tocEn = [
     {
         title: "Table of contents",
-        link: "https://ajimoti.com/en/2023/02/impactful-software-engineering",
+        link: "https://ajimoti.co/en/2023/02/impactful-software-engineering",
         subsections: [
             {
                 title: "Introduction - Being in the room",
-                link: "https://ajimoti.com/en/2023/03/being-in-the-room",
+                link: "https://ajimoti.co/en/2023/03/being-in-the-room",
             },
         ],
     },
     {
         title: "Individual Impact",
-        link: "https://ajimoti.com/en/2023/03/individual-impact",
+        link: "https://ajimoti.co/en/2023/03/individual-impact",
         subsections: [
             {
                 title: "It's not just a matter of technique",
-                link: "https://ajimoti.com/en/2023/02/not-only-about-technique",
+                link: "https://ajimoti.co/en/2023/02/not-only-about-technique",
             },
             {
                 title: "Measure everything",
-                link: "https://ajimoti.com/en/2023/02/measuring-everything",
+                link: "https://ajimoti.co/en/2023/02/measuring-everything",
             },
             {
                 title: "Choose your battles",
-                link: "https://ajimoti.com/en/2023/03/choose-your-battles",
+                link: "https://ajimoti.co/en/2023/03/choose-your-battles",
             },
             {
                 title: "Accepting boredom",
-                link: "https://ajimoti.com/en/2023/03/accept-boredom",
+                link: "https://ajimoti.co/en/2023/03/accept-boredom",
             },
             {
                 title: "Tech Marketing",
-                link: "https://ajimoti.com/en/2023/05/tech-marketing",
+                link: "https://ajimoti.co/en/2023/05/tech-marketing",
             },
         ],
     },
     {
         title: "Engineering Leadership",
-        link: "https://ajimoti.com/en/2023/05/engineering-leadership",
+        link: "https://ajimoti.co/en/2023/05/engineering-leadership",
         subsections: [
             {
                 title: "Soft versus hard leadership",
             },
             {
                 title: "Alignment, autonomy and context",
-                link: "https://ajimoti.com/en/2023/05/alignment-autonomy-context",
+                link: "https://ajimoti.co/en/2023/05/alignment-autonomy-context",
             },
             {
                 title: "Create a technical vision",
@@ -133,50 +133,50 @@ const tocEn = [
 const tocFr = [
     {
         title: "Table des matières",
-        link: "https://ajimoti.com/2023/02/impactful-software-engineering",
+        link: "https://ajimoti.co/2023/02/impactful-software-engineering",
         subsections: [
             {
                 title: "Introduction - Amenez des ingénieurs dans la salle",
-                link: "https://ajimoti.com/2023/03/amenez-ingenieurs-dans-la-salle",
+                link: "https://ajimoti.co/2023/03/amenez-ingenieurs-dans-la-salle",
             },
         ],
     },
     {
         title: "L'impact individuel",
-        link: "https://ajimoti.com/2023/03/individual-impact",
+        link: "https://ajimoti.co/2023/03/individual-impact",
         subsections: [
             {
                 title: "Ce n'est pas juste une question de technique",
-                link: "https://ajimoti.com/2023/02/not-only-about-technique",
+                link: "https://ajimoti.co/2023/02/not-only-about-technique",
             },
             {
                 title: "Tout mesurer",
-                link: "https://ajimoti.com/2023/02/measuring-everything",
+                link: "https://ajimoti.co/2023/02/measuring-everything",
             },
             {
                 title: "Choisissez vos batailles",
-                link: "https://ajimoti.com/2023/03/choisissez-vos-batailles",
+                link: "https://ajimoti.co/2023/03/choisissez-vos-batailles",
             },
             {
                 title: "Accepter l'ennui",
-                link: "https://ajimoti.com/2023/03/accept-boredom",
+                link: "https://ajimoti.co/2023/03/accept-boredom",
             },
             {
                 title: "Tech Marketing",
-                link: "https://ajimoti.com/2023/05/tech-marketing",
+                link: "https://ajimoti.co/2023/05/tech-marketing",
             },
         ],
     },
     {
         title: "Engineering Leadership",
-        link: "https://ajimoti.com/2023/05/engineering-leadership",
+        link: "https://ajimoti.co/2023/05/engineering-leadership",
         subsections: [
             {
                 title: "Soft versus hard leadership",
             },
             {
                 title: "Alignement, autonomie et contexte",
-                link: "https://ajimoti.com/2023/05/alignment-autonomy-context",
+                link: "https://ajimoti.co/2023/05/alignment-autonomy-context",
             },
             {
                 title: "Créer une vision technique",
@@ -194,7 +194,7 @@ const tocFr = [
         subsections: [
             {
                 title: "Faut-il mesurer la performance d’une équipe engineering ?",
-                link: "https://ajimoti.com/2021/10/07/faut-il-mesurer-la-performance-dune-equipe-engineering",
+                link: "https://ajimoti.co/2021/10/07/faut-il-mesurer-la-performance-dune-equipe-engineering",
             },
             {
                 title: "Culture engineering et agilité",
@@ -204,7 +204,7 @@ const tocFr = [
             },
             {
                 title: "Travailler avec des contraintes",
-                link: "https://ajimoti.com/2022/09/travailler-avec-contraintes",
+                link: "https://ajimoti.co/2022/09/travailler-avec-contraintes",
             },
             {
                 title: "Combattre la complexité",
@@ -242,7 +242,7 @@ const tocFr = [
             },
             {
                 title: "Que fait un engineering Manager?",
-                link: "https://ajimoti.com/2022/01/31/que-fait-un-engineering-manager",
+                link: "https://ajimoti.co/2022/01/31/que-fait-un-engineering-manager",
             },
             {
                 title: "Réclamez votre indépendance",

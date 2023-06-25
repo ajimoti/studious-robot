@@ -13,9 +13,9 @@ export default defineEventHandler(async (event) => {
         title: "John Ibukun Ajimoti",
         description:
             "I am John, a software developer currently making life easier with tech.",
-        id: "https://ajimoti.com",
-        link: "https://ajimoti.com",
-        favicon: "https://ajimoti.com/favicon.ico",
+        id: "https://ajimoti.co",
+        link: "https://ajimoti.co",
+        favicon: "https://ajimoti.co/favicon.ico",
         copyright: `All rights reserved ${now.getFullYear()}, Eventually coding`,
         generator: "https://github.com/jpmonette/feed",
     });
@@ -25,8 +25,8 @@ export default defineEventHandler(async (event) => {
 
             feed.addItem({
                 title: post.title ?? "-",
-                id: "https://ajimoti.com" + path,
-                link: "https://ajimoti.com" + path,
+                id: "https://ajimoti.co" + path,
+                link: "https://ajimoti.co" + path,
                 description: post.description,
                 date: new Date(post.date),
                 // image: post.img

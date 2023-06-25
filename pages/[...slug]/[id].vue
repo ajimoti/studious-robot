@@ -120,14 +120,14 @@ useHead({
             hid: "og:url",
             name: "og:url",
             content:
-                "https://ajimoti.com" +
+                "https://ajimoti.co" +
                 article.value?._path.replace("/articles", ""),
         },
         {
             hid: "og:image",
             name: "og:image",
             content:
-                "https://ajimoti.com" +
+                "https://ajimoti.co" +
                 "/images/covers/" +
                 article.value?.cover,
         },
@@ -136,7 +136,7 @@ useHead({
         {
             name: "twitter:image",
             content:
-                "https://ajimoti.com" +
+                "https://ajimoti.co" +
                 "/images/covers/" +
                 article.value?.cover,
         },
@@ -158,7 +158,7 @@ useHead({
         {
             rel: "canonical",
             href:
-                "https://ajimoti.com" +
+                "https://ajimoti.co" +
                 article.value?._path.replace("/articles", ""),
         },
         ...alternates,

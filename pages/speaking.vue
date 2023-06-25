@@ -140,7 +140,7 @@ useHead({
         {
             hid: "og:url",
             name: "og:url",
-            content: "https://ajimoti.com",
+            content: "https://ajimoti.co",
         },
         { name: "twitter:text:title", content: "A propos de l'auteur" },
         { name: "twitter:card", content: "summary" },

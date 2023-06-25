@@ -80,13 +80,13 @@ useHead({
         {
             hid: "og:url",
             name: "og:url",
-            content: "https://ajimoti.com/resources",
+            content: "https://ajimoti.co/resources",
         },
         {
             hid: "og:image",
             name: "og:image",
             content:
-                "https://ajimoti.com" +
+                "https://ajimoti.co" +
                 "/images/covers/" +
                 article.value?.cover,
         },
@@ -95,14 +95,14 @@ useHead({
         {
             name: "twitter:image",
             content:
-                "https://ajimoti.com" +
+                "https://ajimoti.co" +
                 "/images/covers/" +
                 article.value?.cover,
         },
         { name: "twitter:card", content: "summary" },
     ],
     link: [
-        { rel: "canonical", href: "https://ajimoti.com/resources" },
+        { rel: "canonical", href: "https://ajimoti.co/resources" },
     ],
 });
 </script>
