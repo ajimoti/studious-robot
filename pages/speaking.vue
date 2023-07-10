@@ -136,13 +136,13 @@ useHead({
             content: siteMetaInfo.description,
         },
         { hid: "og:type", name: "og:type", content: "article" },
-        { hid: "og:title", name: "og:title", content: "A propos de l'auteur" },
+        { hid: "og:title", name: "og:title", content: "Ibukun Ajimoti John" },
         {
             hid: "og:url",
             name: "og:url",
             content: "https://ajimoti.co",
         },
-        { name: "twitter:text:title", content: "A propos de l'auteur" },
+        { name: "twitter:text:title", content: "Ibukun Ajimoti John" },
         { name: "twitter:card", content: "summary" },
     ],
 });
