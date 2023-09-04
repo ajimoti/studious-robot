@@ -1,7 +1,7 @@
 const timeline = [
     {
         event: "Senior Backend Developer - Harnessgiving",
-        date: "2022 - Present",
+        date: "2022 - 2023",
         location: "Tampa, Florida USA",
         description: `<a style="text-decoration: underline;" target="_blank" href="https://harnessgiving.com">Harnessgiving</a> is a cloud-based donation management software that helps non-profit organizations automate fundraising, <br>\n
                         receive recurring donations, and interact with donors from a centralized platform.<br>\n
@@ -33,7 +33,7 @@ const timeline = [
     },
     {
         event: "Senior Backend Developer - Bitsika",
-        date: "2020-2021",
+        date: "2020 - 2023",
         location: "Accra, Ghana",
         description: `<a style="text-decoration: underline;" target="_blank" href="https://bitsika.africa">Bitsika</a> uses blockchain technology to help Africans receive and send money instantly, from anyone, anywhere at almost zero cost.<br />\n
             Additionally, Bitsika has transitioned into a social app, that allows customers to write posts, create a profile and engage with your followers and people you follow on your timeline.<br />\n
@@ -71,7 +71,7 @@ const timeline = [
     },
     {
         event: "Senior Software Developer - NPC",
-        date: "2019-2020",
+        date: "2019 - 2020",
         location: "Lagos, Nigeria",
         description: `<a style="text-decoration: underline;" target="_blank" href="https://nigeriapropertycentre.com/">Nigeria Property Centre</a> is the largest and most visited real estate and property website in Nigeria with property listings for sale, rent and lease.<br>\n
             <br>\n
@@ -93,7 +93,7 @@ const timeline = [
     },
     {
         event: "Senior Software Developer - Hotels.ng",
-        date: "2018-2019",
+        date: "2018 - 2019",
         location: "Lagos, Nigeria",
         description: `<a style="text-decoration: underline;" target="_blank" href="https://hotels.ng">Hotels.ng</a> is the largest online travel agency specializing in hotel bookings within Nigeria. <br>\n
             Hotels.ng help customers book hotel rooms online, provide comprehensive help and support to clients and make the hotel booking process smooth and easy. <br>\n
@@ -115,7 +115,7 @@ const timeline = [
     },
     {
         event: "Web Developer - HostNowNow",
-        date: "2016-2018",
+        date: "2016 - 2018",
         location: "Lagos, Nigeria",
         description: `<a style="text-decoration: underline;" target="_blank" href="https://hostnownow.com/">Hostnownow</a> is a web hosting company in Nigeria. Services rendered varies from Website software design, to Cloud Hosting, sitelock, and SSL installation <br>\n
             <br>\n
